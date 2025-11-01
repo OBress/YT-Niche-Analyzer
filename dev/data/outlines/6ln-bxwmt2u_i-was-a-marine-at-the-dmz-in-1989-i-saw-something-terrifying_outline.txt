@@ -1,0 +1,88 @@
+- Title
+  - I Was a Marine at the DMZ in 1989. I Saw Something TERRIFYING.
+
+- Main Characters
+  - Eddie Day (narrator) — Marine on patrol; sole surviving team member; later assumes identity Michael Harrison and lives in hiding.
+  - Drew Noble — commanding officer who briefs the patrol and later leads debriefs.
+  - Elijah Knapp — communications specialist; photographs the wounds; becomes seriously ill and is removed.
+  - Christian Hoffman — translator; talks to the girl; becomes ill and is removed.
+  - Julian Burgess — youngest team member; carries the girl back; becomes ill and is removed.
+  - The Girl / “the subject” — appears as a bloodstained young girl in a hanbok; later implied to be a supernatural entity (Kumiho-like).
+  - Colonel Hunt & Major Payne — higher-ranking officers whose contradictory radio orders and later involvement indicate an official containment response.
+  - Michael Garrison — checkpoint/security at Camp Liberty who treats the girl as an asset/package.
+  - Paul — civilian contact in the U.S. (police connection) who helps Eddie disappear.
+  - Kim — fixer in Seoul who arranges documents and extraction.
+  - Father McKenzie — chaplain who provides blessed rounds and spiritual support.
+  - Unnamed specialists/contractors — hazmat/containment teams and government/civilian experts who take over Building 7.
+
+- Setting
+  - Time: October 1989 (initial events), then an extended period spanning years afterward through the narrator’s flight to the U.S. and long-term hiding (up to ~8 years later).
+  - Places:
+    - Sector Seven, DMZ (Korea) — ridge lines, fence, patrol route.
+    - Camp Liberty — base with normal operations that shifts into a containment site (notably Building 7).
+    - Building 7 — windowless restricted facility used to isolate the girl/subject.
+    - Observation post / abandoned Korean position — where the narrator watches base activity.
+    - Transit via Seoul/Incheon → Yokota → USA — extraction and cover routes.
+    - Various U.S. locations — Cleveland, Pittsburgh, Detroit; Paul’s safehouse.
+    - Glacier Valley Community College (final scene) — campus where final encounter occurs.
+
+- Narrative Structure
+  - Exposition
+    - Briefing and departure from Camp Liberty; introductions to team roles and patrol routine; landscape of Sector Seven; time: 00:00:00–00:10:00.
+  - Rising Action
+    - Routine patrol disturbed by an anomalous fog moving against wind, loss of radio contact, discovery of mutilated North Korean soldiers, the crying child; decision to bring the girl to base; conflicting orders over radio; time: 00:24:01–00:48:00.
+  - Climax
+    - Base response escalates: the girl is isolated in Building 7; teammates become ill, placed in quarantine, transported; narrator overhears references to folklore/supernatural (Kumiho) and containment; narrator flees to avoid being taken — containment and deaths culminate in Building 7 burning and recovery of bodies; time: 01:22:01–01:43:00.
+  - Falling Action
+    - Narrator’s escape off base, covert extraction to Seoul, travel to the U.S., assisted disappearances, living under assumed identities, repeated surveillance by federal teams; long-term psychological fallout; time: 01:43:01–01:53:00 (and covers years).
+  - Resolution (ambiguous / cliffhanger)
+    - Years later, narrator (as Michael Harrison) works nights, still hunted; final scene shows the same girl reappearing on campus; narrator arms himself with blessed silver rounds preparing for confrontation — unresolved ending. (Final seconds.)
+
+- Key Plot Points with timestamp ranges (approximate, mapped to total duration 01:53:43)
+  - 00:00:00–00:10:00 — Briefing at Camp Liberty: gear checks, patrol route for Sector Seven, team roles established.
+  - 00:10:01–00:24:00 — Patrol on foot across ridge line: routine observation, checks, initial normalcy.
+  - 00:24:01–00:36:00 — Unnatural fog appears (moves against wind); radio interference begins; team stops to observe.
+  - 00:36:01–00:48:00 — Discovery of six mutilated North Korean soldiers arranged in a circle; odor and wound details; Elijah photographs evidence.
+  - 00:48:01–01:00:00 — Sound of crying leads to discovery of the little girl in a bloodstained hanbok; Christian translates her claims (attacked by “something from the sky”); radio chaos with conflicting commands.
+  - 01:00:01–01:06:00 — Decision by narrator to take the girl to base despite conflicting orders; girl taken to Building 7 by security.
+  - 01:06:01–01:22:00 — Increased base security, odd behavior and questions from Drew during debrief; teammates begin to show symptoms (headaches, fevers); Elijah taken to medical.
+  - 01:22:01–01:34:00 — Narrator overhears specialist discussion linking the case to folklore (Kumiho) and supernatural contamination; learns exposure-by-touch spreads effects; decides to flee before being quarantined.
+  - 01:34:01–01:45:00 — Observation post surveillance: hazmat teams, specialized convoys, refrigerated trucks move body bags; narrator watches teammates escorted into unmarked vans; Building 7 containment operation intensifies.
+  - 01:45:01–01:53:43 — Building 7 fire / containment breach; teams recover multiple bodies; Colonel Hunt confirms teammates died; narrator realizes systemic cover-up and flees Korea — sequence then compresses into long-term escape, clandestine travel, return to the U.S., and years of hiding, culminating in final campus confrontation.
+
+- Emotional Arc
+  - Anticipation / professional focus — opening: routine patrol discipline, methodical checks.
+  - Curiosity → unease — when fog behaves oddly and radio drops out.
+  - Horror / revulsion — discovery of mutilated soldiers, surgical-like wounds.
+  - Compassion / protectiveness — toward the bloodstained girl (human instinct to help).
+  - Confusion → betrayal — conflicting command orders; debrief minimizing the girl’s testimony.
+  - Anger / dread — realization leadership is hiding facts; teammates fall ill.
+  - Panic → determination — decision to flee rather than be contained.
+  - Grief / survivor’s guilt — after teammates die or are taken to their deaths.
+  - Paranoia / isolation — years of hiding under false identities; watched by government agents.
+  - Resolve / readiness — final scene where narrator prepares to confront the entity directly.
+
+- Themes and Motifs
+  - Supernatural vs. Institutional Denial
+    - The narrative juxtaposes an impossible, folkloric threat (Kumiho-like entity) with a military/government drive to contain, label, and suppress.
+  - Survivor guilt and moral cost of compassion
+    - The narrator’s empathy for the child leads to catastrophic consequences for his team; guilt drives his later actions and isolation.
+  - Secrecy and bureaucratic cover-up
+    - Repeated contradictory orders, unmarked transports, restricted access, and suppression of facts emphasize institutional secrecy.
+  - Identity and exile
+    - Repeated identity changes (Eddie Day → Michael Harrison), life in hiding, and loss of a previous life.
+  - Folklore and cultural collision
+    - The Kumiho motif (shape-shifting fox-woman) is invoked; Western military systems misinterpret or suppress cultural/supernatural explanations.
+  - Fog / obscuration as symbol
+    - The unnatural fog both conceals supernatural danger and symbolizes the opacity of truth beneath official responses.
+  - Child/monstrous ambiguity
+    - The subject’s appearance as an innocent girl masks predatory, contagious properties — unsettling the instinct to protect.
+  - Radio/static / communication breakdown
+    - Static, conflicting transmissions, and jammed frequencies mirror fractured authority and unreliable truth.
+  - Blood and the unnatural wound pattern
+    - Repeated images of blood, precise three-pronged claw marks, and minimal external bleeding underscore the non-natural threat.
+  - Containment vs. humanity
+    - The choice to contain (and in practice to kill or silence) rather than explain or heal raises ethical questions about who is protected and at what cost.
+
+- Narrative notes / final impression
+  - The story is structured as a first-person survival/horror confession that starts with a tactical military patrol and expands into a long-term psychological and institutional thriller. It ends on a deliberately unresolved cliffhanger: years later, the narrator encounters the same figure and prepares to fight — leaving the reader with lingering ambiguity about whether the threat can be destroyed, contained, or will continue to haunt him.

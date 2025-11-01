@@ -1,0 +1,75 @@
+- Title
+  - I Went Camping With My Girlfriend and Her Friend. Something Isn't Right With These Woods.
+
+- Main Characters
+  - Levi (narrator) — Grace's boyfriend; pragmatically reluctant to camp, observer and moral center of the narration.
+  - Grace — Levi's girlfriend; anxious, evasive, later implied to have a secret (the photograph and Amy's accusations).
+  - Amy Manning — Grace's longtime best friend; emotionally distant and hostile during the trip; tells a story about betrayal and murder; later reported missing.
+  - Derek — Amy's boyfriend (or ex); named as the reason for Amy's heartbreak; implicated in an affair with Grace through Amy's accusations.
+  - Officer Ronnie Lawson — county sheriff's deputy who interviews Levi and Grace after Amy is reported missing.
+  - Amy's mother — contacts Grace about Amy's disappearance (offstage but consequential).
+
+- Setting
+  - Primary: Pine Ridge State Park — a remote forested campsite with dense pines, a clearing, fire ring and nearby ravine/clifflines alluded to in Amy's story.
+  - Secondary locations: Levi and Grace's apartment (where camping gear is laid out), Amy's converted-warehouse apartment (where she is picked up), the car ride (two-hour drive through changing landscapes), a motel on Highway 12 (referenced in Amy's recounting).
+  - Time: Late summer/early fall; the trip spans late afternoon into the night and into the following morning. The narrative also extends several days later (police contact and follow-up).
+
+- Narrative Structure
+  - Exposition (approx. 00:00–05:30)
+    - Levi reluctantly agrees to Grace's last-minute, one-night camping trip to comfort Amy after Derek cancels.
+    - Early behavioral oddities established: Grace's nervousness and secrecy; Amy's hollow, hostile demeanor when picked up.
+  - Rising action (approx. 05:30–40:30)
+    - Two-hour drive with strained silence and mounting tension between Grace and Amy.
+    - Arrival at the campsite; tent setup; Amy isolates in her one-person tent; Levi starts and tends a campfire.
+    - Social awkwardness escalates; Amy refuses shared activities and sits apart by the fire.
+  - Climax (approx. 40:30–55:00)
+    - Around the campfire Amy tells a precise story about two lifelong friends, a discovered affair, a confrontation at a cliff overlook and the betrayed friend being pushed off — the tale reads as accusation aimed at Grace.
+    - Grace is visibly crushed; Levi is shocked and confused. Amy calmly leaves for her tent after telling the story.
+  - Falling action (approx. 55:00–71:00)
+    - Strange nocturnal events: measured footsteps circling tents for an hour, whispered voices, Levi and Grace terrified in their tent.
+    - Morning: Amy's tent is found empty. While packing, Levi finds a recent photograph of Grace with an unknown man tucked inside Amy's sleeping bag.
+    - Suspicion, unease and the decision to leave the campsite.
+  - Resolution / Aftermath (approx. 71:00–end)
+    - Returning home, days pass in strained silence. Amy is reported missing; her car is still at her apartment.
+    - Police contact Levi and Grace; Officer Lawson interviews them. Levi realizes (or forms the belief) that Amy may have been dead when she told the campfire story and during the nighttime circling — the narrative ends unresolved and ominous, with Grace’s relationship to the photograph and Amy left ambiguous.
+
+- Key Plot Points with timestamp ranges
+  - 00:00–05:30 — Home: Grace dumps camping gear; Levi reluctantly agrees to go; Grace presses that Amy needs support after Derek cancels.
+  - 05:30–15:30 — Pickup: Drive to Amy's apartment; Amy appears hollow and hostile; awkward car ride begins.
+  - 15:30–30:00 — Journey / Arrival: Forest scenery, tension intensifies on the two-hour drive; arrival at Pine Ridge clearing and initial tent setup.
+  - 30:00–40:30 — Camp setup & Fire: Tension continues; Grace and Levi build a fire; Amy remains isolated in her tent and refuses to participate.
+  - 40:30–55:00 — Campfire (Climax): Amy narrates a story that accuses Grace of having an affair with Derek and of pushing her best friend off a cliff; Grace breaks down.
+  - 55:00–65:00 — Night terror: Footsteps circle the campsite repeatedly; whispering outside tents; Levi and Grace terrified and sleepless.
+  - 65:00–71:00 — Dawn discovery: Amy's tent empty in the morning; Amy's sleeping bag contains a hidden photograph of Grace with another man.
+  - 71:00–78:00 — Packing & Departure: Levi confronts Grace with the photograph; Grace is evasive; they drive home in tense silence.
+  - 78:00–End — Aftermath & Police: Days pass; Amy reported missing (car at apartment); Officer Lawson requests statements; Levi begins to infer that Amy may have been dead during the camp events and that Grace is implicated.
+
+- Emotional Arc
+  - Reluctant bemusement to growing unease (Levi): initial reluctance and mild humor at the idea of camping transitions to discomfort as interpersonal tension manifests.
+  - Frustration and helplessness (Grace): starts anxious and pleading, becomes defensive and eventually shattered and evasive when confronted with Amy's accusation.
+  - Hollow hostility to chilling agency (Amy): introduction as emotionally hollow, then coldly intentional as she exposes (via story) a betrayal — moves from passive to the active role of accuser.
+  - Escalation to horror and suspicion (Levi): shock at Amy's story, fear during the night, dawning horror upon finding the photograph and later police involvement; suspicion crystallizes into a chilling conclusion.
+  - Ambiguous dread / unresolved guilt (Grace): oscillates between denial and visible guilt; ends emotionally closed-off and evasive when authorities arrive.
+
+- Themes and Motifs
+  - Betrayal and infidelity
+    - Central conflict revolves around an affair (Grace and Derek) and its devastating fallout.
+  - Revenge and justice
+    - Amy's story frames a revenge narrative — the betrayed friend enacting violent justice.
+  - Guilt and concealment
+    - Grace's evasiveness, the hidden photograph, and the narrator's realization create a moral weight of secrets.
+  - Ambiguity & unreliable testimony
+    - The narrator pieces events together from subjective, potentially unreliable perspectives (campfire story, gestures, found photograph).
+  - Supernatural or uncanny suggestion
+    - Repeated motifs (nocturnal footsteps circling tents; Amy's uncanny presence despite later disappearance) produce an implication that Amy's appearance may have been beyond natural explanation.
+  - Nature as witness/isolation
+    - The remote woods, the cliff/ravine image, and the silent forest amplify vulnerability and function as a place where private crimes and reckonings can happen unseen.
+  - Fire and circle imagery
+    - The campfire acts as a spotlight for confession; the footsteps’ cyclical pacing mirrors the circle of accusation and the motif of returns (unresolved past returning to confront the present).
+  - Photograph / evidence-as-object
+    - The photograph is a concrete, mobile piece of evidence that triggers suspicion and drives the narrator’s investigation; it symbolizes hidden lives and proof that cannot be comfortably explained away.
+  - Silence and small sounds
+    - The narrative repeatedly uses quiet (hollows, whispering, the crunch of needles, the tent zipper) to heighten unease and the feeling that something is being concealed.
+
+Notes on narrative perspective and ambiguity
+- The story is told from Levi’s point of view; many conclusions are his inferences (e.g., that Grace murdered Amy and that Amy may have been a ghost when present at camp). The text deliberately leaves critical items unresolved: Amy’s ultimate fate, the identity of the man in the photograph (though strongly implied to be Grace’s lover), and whether supernatural elements are literal or psychological. The ending is intentionally open and suspenseful: investigation begins but answers are not provided.

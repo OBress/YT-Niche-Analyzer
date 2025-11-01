@@ -1,0 +1,79 @@
+1. Title
+- I Was Hired To Watch Over a House at Night. It's Very Strange Here.
+
+2. Main Characters
+- Sawyer Lee — narrator / protagonist; unemployed marketing coordinator, desperate for money, takes the night-watch job.  
+- Jordan Norton — friend/handler who recruits Sawyer; gives strict rules; later revealed to be alias / part of the criminal operation.  
+- Jeff Wheeler — ~10-year-old boy Sawyer rescues from a freezer; key survivor and emotional anchor.  
+- Sarah Chen — girl among the rescued children; alert and resourceful.  
+- David Wheeler — older boy (~12) in the worst condition; Jeff’s likely brother.  
+- Leon & Tara Wheeler — Jeff’s parents; represent the rescued families.  
+- Detective Mary Lawson — lead investigator at the scene, takes Sawyer’s statement.  
+- Agent Jack Strickland — FBI agent coordinating dismantling of the trafficking network.  
+- Prosecutor Sarah Martinez — handles grand jury testimony/indictment.  
+- Blackwood — the criminal trafficking organization (organization antagonist).  
+- Minor: Mr. Kowalski (landlord), Sawyer’s parents (financial support).
+
+3. Setting
+- Primary: 1247 Maple Street, Riverside — an ordinary-appearing two-story house in a quiet neighborhood with an ominously large, hidden basement full of industrial freezers.  
+- Secondary: Sawyer’s cramped studio apartment (eviction notice, financial desperation).  
+- Temporal: Contemporary (autumn, January nights mentioned), events spanning several nights and later legal aftermath over weeks/months.  
+- Atmosphere: Nighttime darkness, covered furniture, silence punctuated by rhythmic noises — a contrast between ordinary suburban façades and hidden criminal infrastructure below.
+
+4. Narrative Structure
+- Exposition
+  - Sawyer loses his job, falls into debt, receives an eviction notice, and is desperate for immediate income. Jordan offers a high‑pay night-watch job with odd rules (no lights, no leaving, no noise). Sawyer accepts.
+- Rising action
+  - Sawyer’s first night at 1247 Maple Street: mysterious tapping and banging coming from upstairs; Jordan insists the house is empty and the noises are normal. The sounds escalate over multiple nights; Sawyer investigates upstairs but finds nothing. Jordan’s evasiveness and the house’s odd rules increase tension.
+- Climax
+  - Third night escalation: Sawyer hears a knocking from below, discovers a previously unseen kitchen door and a basement containing multiple industrial freezers. He opens them and finds seven children in various stages of hypothermia — the trafficking operation is exposed.
+- Falling action
+  - Sawyer calls 911; police and FBI arrive, rescue the children, and begin investigation. Sawyer learns Jordan’s identity is false; law enforcement traces the Blackwood network and arrests multiple suspects.
+- Resolution
+  - Grand jury testimony and legal proceedings begin; Sawyer receives emotional closure via reunion with Jeff and his family, a monetary reward; Sawyer reflects on guilt, accountability, and the moral choice that saved lives. He starts volunteering and rebuilding his life.
+
+5. Key Plot Points with timestamp ranges (total duration: 6,653 s)
+- 0–900 s — Setup & job offer
+  - Sawyer discovers eviction, financial backstory, calls Jordan; Jordan offers the night-watch/security gig paying $3,000/week with strict rules.
+- 900–1,800 s — Arrival & first night
+  - Sawyer tours the empty house, receives instructions (no lights/upstairs off-limits/no leaving), sits in the chair; initial tapping, banging, and footsteps start; Sawyer investigates upstairs and finds nothing.
+- 1,800–3,300 s — Escalation over nights 1–2
+  - Repeated nights: noises intensify (tapping → banging → purposeful footsteps); Sawyer’s unease grows; Jordan’s dismissive responses; Sawyer returns to the house each night and continues to be haunted by sounds.
+- 3,300–4,200 s — Night 3 & discovery (climax)
+  - Disturbing new knocks from below; Sawyer finds the previously unseen basement door, descends, discovers multiple industrial freezers, opens them, and pulls out seven hypothermic children (Jeff, Sarah, David, etc.). Realization that the job concealed trafficking.
+- 4,200–5,400 s — Rescue & investigation
+  - Sawyer calls 911; police and paramedics arrive, children treated and reunited; Detective Lawson and FBI Agent Strickland interview Sawyer; Jordan/Norton's identity untraceable; broader Blackwood organization revealed.
+- 5,400–6,100 s — Legal aftermath & personal fallout
+  - Sawyer provides statements, grand jury preparation; reflections on guilt, the moral choice, nightmares; Agent Strickland updates on arrests and dismantling the network; Sawyer begins volunteering.
+- 6,100–6,653 s — Closure & reward
+  - Jeff and his parents visit Sawyer to thank him; Sawyer receives $50,000 reward; he contemplates recovery, future work, and what being “the right choice” means.
+
+6. Emotional Arc
+- Despair and anxiety — Opening: crushing financial stress, eviction notice, shame.  
+- Hope and relief — Jordan’s job offer appears like a lifeline; Sawyer feels rescued by the pay.  
+- Unease and mounting fear — Strange rules, night sounds, Jordan’s evasiveness; tension builds across nights.  
+- Horror and guilt — Discovery of children in freezers: immediate shock, horror at what he unknowingly guarded, profound guilt for earlier nights.  
+- Action and resolve — Sawyer acts (breaks the rules), rescues the children, calls authorities.  
+- Catharsis and moral affirmation — Rescue and legal action provide relief; Sawyer is praised but struggles with the costs of near-complicity.  
+- Recovery and purpose — Reward and reunions, volunteering with kids, reorientation toward moral repair and practical rebuilding.
+
+7. Themes and Motifs
+- Desperation and vulnerability
+  - Financial crisis as the primary motivator; how economic precarity makes people susceptible to exploitation.
+- Trust, betrayal, and deception
+  - Jordan’s false identity and manipulation; betrayal of personal relationship for criminal ends.
+- Rules and obedience vs. moral agency
+  - Repeated injunctions (“no lights, no leaving, no noise”) as mechanisms of control; Sawyer’s decision to break rules raises questions about obedience and conscience.
+- Sound and signal
+  - Rhythmic tapping, three‑knock patterns, banging and footsteps functioning both as literal dangers and as signals of distress; “noise” as communication suppressed by the traffickers.
+- Darkness, concealment, and façade
+  - Physical darkness (curtains, covered furniture, basement) mirrors social concealment — ordinary suburban cover for criminal infrastructure.  
+- Money as both salvation and trap
+  - Job’s high pay solves immediate problems but masks moral cost; financial desperation exploited by traffickers.
+- Innocence and protection of children
+  - Children in freezers: motif of violated innocence and the urgent ethical imperative to protect the vulnerable.
+- Redemption and responsibility
+  - Sawyer’s guilt-transformed-into-action; small personal courage leads to larger institutional accountability and rescue.
+
+Optional quick summary (one sentence)
+- A desperate man takes a too‑good‑to‑be‑true night‑watch job, discovers that the house conceals a child‑trafficking operation, breaks the imposed rules to rescue seven children, and helps bring the criminal network to justice while confronting his own complicity and rebuilding his life.

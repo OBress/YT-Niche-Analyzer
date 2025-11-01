@@ -1,0 +1,84 @@
+1. Title
+- I'm a Fire Lookout in The Mountains. Things Are Very Strange Here.
+
+2. Main Characters
+- Teddy Harris — narrator; newly assigned fire watch operator at Tower 47.
+- Leo Shepherd — veteran ranger who orients Teddy and dismisses his concerns.
+- Jacob Franklin — disheveled, anxious man Teddy encounters at night (later identified as a missing person).
+- Dylan Romero — calm, purposeful man who appears the same night and inexplicably follows the same path.
+- Natalie Sawyer — woman in a red dress and high heels who walks through the forest and screams.
+- The Suited Man — man in a formal black suit who stands motionless staring at the tower.
+- Cloaked Figures — a group of black-hooded people who chant and surround the tower (antagonistic / uncanny collective).
+- Rebecca Marsh — mysterious woman who later contacts Teddy and wants details.
+- Base / Ranger staff (collective) — institutional authority, represented mainly by Leo and Pine Ridge station personnel.
+
+3. Setting
+- Primary: Fire Watchtower 47 — a 70-foot wooden observation tower with a single-room cabin and 360° windows, located in a large pine forest (Pine Ridge region).
+- Secondary: A clearing half a mile east of the tower (helicopter drop site / crate), Pine Ridge Ranger Station, and Teddy’s apartment (epilogue).
+- Time: Late June; events unfold over roughly nine days/nights of Teddy’s two-week assignment (summer, fire season).
+
+4. Narrative Structure
+- Exposition
+  - Teddy arrives at Tower 47, meets Leo, learns duties (scan, monitor, radio reports). Establishes isolation, routine, and setting.
+- Rising Action
+  - Initial days of uneventful watch turn odd: Jacob appears at night asking for help; later Dylan appears asking for same campground but then walks the wrong way. Teddy reports to Leo, who dismisses concerns.
+  - Teddy witnesses a matte-black helicopter land and deliver a large wooden crate marked with a simple black circle. He investigates the crate, discovers a waxy black powder that stains his skin and seems abnormal. Leo forbids further investigation.
+  - Nighttime phenomena escalate: whispering voices in the woods that fall silent when light is shone, and a woman (Natalie) in a red dress who walks to the tower, screams, and then disappears without trace.
+  - The suited man appears, motionless, and vanishes when Teddy searches the spot — pattern of visitors who leave no physical evidence continues.
+- Climax
+  - On the ninth night, multiple black-cloaked figures converge on the tower, form a perfect circle, and chant in an inhuman language. Teddy is overwhelmed by the sound; radio/static fail. The chanting abruptly stops and the figures vanish as if they were never there.
+- Falling Action
+  - Dawn arrives; Leo comes to the tower, Teddy leaves with his duffel. At Pine Ridge Ranger Station Teddy finds a missing-persons flyer for Jacob Franklin and realizes Jacob had been missing for two years.
+  - Teddy returns home shaken; Leo and the Forest Service dismiss his report and say no crate or evidence was found. Leo suggests stress/isolation as an explanation.
+- Resolution / Epilogue
+  - Teddy is left with indelible black stains on his fingers as the only physical proof. A stranger (Rebecca Marsh) texts him to meet; she claims to believe him and asks Teddy to recount everything — story ends on an ominous invitation and unresolved mystery.
+
+5. Key Plot Points with timestamp ranges (approximate; total duration 4,744 s)
+- 0:00–6:00 (0–360 s): Arrival and orientation at Tower 47; meeting Leo; setup of duties and equipment.
+- 6:01–12:00 (361–720 s): Teddy settles into routine; first uneventful days; panoramic descriptions establishing isolation.
+- 12:01–20:00 (721–1,200 s): First major odd event — Jacob Franklin appears at night asking for help; Teddy guides him toward Pine Ridge.
+- 20:01–28:00 (1,201–1,680 s): Dylan Romero appears also asking for Pine Ridge, then inexplicably heads the same wrong way; Teddy logs both encounters and radios base.
+- 28:01–36:00 (1,681–2,160 s): Leo dismisses concerns; days pass; tension mounts as Teddy remains uneasy.
+- 36:01–50:00 (2,161–3,000 s): Helicopter arrival observed; delivery of large wooden crate bearing black circle logo; Teddy watches from tower.
+- 50:01–60:00 (3,001–3,600 s): Teddy investigates crate at clearing, discovers waxy black powder that stains skin; radios Leo and is sharply rebuked to stay in post.
+- 60:01–66:00 (3,601–3,960 s): Nighttime whispering in the woods; voices that fall silent when illuminated; Teddy locks himself in cabin.
+- 66:01–70:00 (3,961–4,200 s): Natalie Sawyer in a red dress appears, speaks with monotone voice, screams, then vanishes; Teddy searches fruitlessly.
+- 70:01–73:00 (4,201–4,380 s): The suited man stands motionless staring at the tower; Teddy searches and finds no trace.
+- 73:01–76:40 (4,381–4,600 s): Climax — multiple cloaked figures converge, chant, and surround the tower; intense sensory onslaught; figures vanish; radio dead.
+- 76:41–79:04 (4,601–4,744 s): Aftermath — Leo arrives, Teddy leaves, discovers Jacob’s missing-persons flyer at ranger station, returns home, receives dismissive call from Leo, then gets an anonymous text and meets Rebecca Marsh (story pivots to open-ended investigation).
+
+6. Emotional Arc
+- Curiosity / Competence: Teddy begins confident, focused on job and routine; enjoys isolation and vistas.
+- Unease / Suspicion: The first encounter with Jacob and Dylan introduces disquiet and suspicion; Teddy becomes watchful.
+- Anxiety / Frustration: Leo’s dismissive attitude increases Teddy’s frustration and sense of isolation.
+- Fear / Paranoia: Whispering voices, inexplicable vanishings, black stains, and nocturnal sightings escalate fear and paranoia.
+- Terror / Overwhelm: The chanting cloaked figures produce a peak of terror — sensory assault, radio failure, feeling of helplessness.
+- Disorientation / Alienation: After the climax, Teddy experiences relief at dawn but is shaken; institutional denial deepens isolation and doubt.
+- Obsession / Seeking Validation: The discovery of Jacob’s missing-persons flyer validates part of Teddy’s experience and fuels a desire for answers.
+- Uneasy Hope / Ambiguity: Meeting Rebecca suggests possible allies and continuation of the mystery; resolution remains open and unsettling.
+
+7. Themes and Motifs
+- Isolation and Psychological Fragility
+  - The tower setting amplifies solitude; Teddy’s sanity and perception are repeatedly questioned by himself and authorities.
+- The Uncanny Intruding on the Mundane
+  - Everyday elements (campers, helicopters, rangers) become carriers of the uncanny (missing people reappearing, cryptic deliveries).
+- Authority vs. Individual Perception
+  - Leo and institutional responses dismiss Teddy’s experiences, highlighting how official narratives can marginalize anomalous testimony.
+- Time Displacement / Missing Persons
+  - Encounters with people who should not be present (Jacob missing two years) suggest temporal anomalies or overlays of past events onto the present.
+- Contamination and Stain as Proof
+  - The black powder and its persistent stains function as physical proof in contrast to ephemeral witnesses that leave no trace.
+- Repetition and Circularity
+  - Repeated returns to Pine Ridge, the black circle logo, the circular helicopter downdraft pattern, and the circle formed by cloaked figures — visual and structural circular motifs.
+- Sound and Silence
+  - Whispering voices that disappear under light, and the climactic chanting that bypasses the radio and invades the body, present sound as a vehicle for the uncanny.
+- Visual Motifs of Misplacement
+  - Incongruous clothing (red dress heels, business suit, black cloaks) foregrounds characters as out-of-place emissaries of mystery.
+- Documentation vs. Erasure
+  - Teddy’s logbook and the missing-person flyer stand against the forest’s apparent ability to erase physical evidence and memory.
+- Symbols
+  - Black circle logo — simple, recurring emblem linked to the crate/delivery; its meaning remains mysterious and ominous.
+  - Black powder — contaminant that resists removal, marking the protagonist and connecting him materially to the forest’s weirdness.
+
+Summary note
+- The story is structured as a gradual escalation from mundane solitude to full-blown supernatural encounter, anchored by one tangible physical trace (the black-staining powder). It ends unresolved, shifting the narrative outward (Rebecca’s interest) and leaving the central mysteries — the identities and natures of the visitors, the purpose of the crate, and the implications of the missing-persons overlap — open for further investigation.

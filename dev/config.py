@@ -46,7 +46,7 @@ class Config:
         if not eleven_api_key:
             raise ValueError("ELEVEN_API_KEY environment variable is required")
 
-        eleven_model_id = os.getenv("ELEVEN_MODEL_ID", "eleven_monolingual_v1")
+        eleven_model_id = os.getenv("ELEVEN_MODEL_ID", "scribe_v1")
 
         openrouter_api_key = os.getenv("OPENROUTER_API_KEY", "")
         if not openrouter_api_key:

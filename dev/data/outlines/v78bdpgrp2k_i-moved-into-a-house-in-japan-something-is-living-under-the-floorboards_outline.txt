@@ -1,0 +1,70 @@
+1. Title
+- I Moved Into a House in Japan. Something is Living Under the Floorboards.
+
+2. Main Characters
+- Marshall Walker — narrator; American engineer who inherits the house; protagonist and viewpoint character.  
+- Uncle Jeff (Jeff Walker) — estranged uncle, property owner, missing/murder victim.  
+- Levi Ferguson — Japanese-based attorney handling the estate.  
+- Detective Nakamura — local Japanese detective who leads the on-site investigation.  
+- Detective Bell — investigator on the missing-persons case (voicemail contact).  
+- Denise McLaughlin — woman who disappeared 20 years earlier; later identified as the body sealed in the wall (likely the “woman” apparition).  
+- Apparitions / Supernatural figures — unnamed woman in white (hair obscuring face) and a hollow-eyed boy; recurring antagonistic presences.  
+- Minor: local police, forensics team, Marshall’s boss Elaine, coworkers, neighbors.
+
+3. Setting
+- Primary: Remote traditional Japanese house in rural Gifu Prefecture — isolated, overgrown garden, sagging roof, tatami rooms, attic, main room with floorboards.  
+- Secondary: Mountain roads and clearing leading to the house; small local police station; Tokyo (Marshall’s apartment and departure point); Seattle — Marshall’s new life and apartment after returning to the U.S.
+
+4. Narrative Structure
+- Exposition
+  - Marshall receives a heavy envelope from Japan revealing he inherited his estranged Uncle Jeff’s rural house and learns Jeff is missing; Marshall decides to see the property. Sets up past estrangement and mystery.
+- Rising Action
+  - Marshall drives to the remote Gifu property; discovers signs of violence and neglect; finds Jeff’s recent letter warning not to stay after dark and describing “the woman and child” in the walls; chooses to stay overnight despite the warning.
+  - Strange phenomena escalate after dark: attic footsteps, sudden temperature drop, frost inside, locked/immovable doors and windows, disappearances of keys/phone battery drain, and repeated sightings of a woman in white and a hollow-eyed child whose mouth opens in a silent scream.
+- Climax
+  - Dawn release and desperate flight: Marshall survives the night of terror; police arrive and reveal they found Uncle Jeff’s decomposed body under the floorboards in the exact spot where Marshall slept, and later a long-sealed body (Denise McLaughlin) in a wall cavity.
+- Falling Action
+  - Investigation reveals the house’s dark history and a likely connection between Jeff’s discovery of Denise and his murder. Marshall returns to the U.S., attempts to rebuild life in Seattle but continues to experience apparitions and PTSD-like symptoms.
+- Resolution
+  - No neat closure. The physical house is demolished months later, but Marshall remains haunted; he moves and attempts to create distance, but the supernatural/psychological effects persist. The story ends ambiguously — survival rather than resolution.
+
+5. Key Plot Points with timestamp ranges (approximate; total duration 63:49)
+- 00:00–02:30 — Envelope, legal documents, discovery of inheritance, emotional backstory of his last fight with Jeff.  
+- 02:30–05:00 — Phone call with Levi Ferguson informing Marshall Jeff is missing and the house is legally his.  
+- 05:00–12:00 — Marshall drives into rural Gifu, description of approach and first impressions of the isolated house.  
+- 12:00–20:00 — Exterior and entry into the house; silence and oppressive atmosphere; interior signs of violence; blood-like stains.  
+- 20:00–28:00 — Finds Jeff’s dated letter warning him not to stay after dark; decides to stay despite the warning; sets up sleeping area.  
+- 28:00–33:00 — Nightfall, uneasy silence deepens; difficulty sleeping; first attic footsteps after midnight.  
+- 33:00–40:00 — Attic search yields no intruder; sudden cold and lantern failure; first clear vision of the woman at the window.  
+- 40:00–46:00 — Child apparition appears in doorway with hollow eyes and silent scream; Marshall tries to escape but doors/windows are immovable; keys disappear; phone dies.  
+- 46:00–52:00 — Escalation: woman advances with unnatural movements and grotesque features; repeated vanishings and reappearings; wall scratching and bulging; frost forms inside.  
+- 52:00–58:00 — Apparitions reappear cyclically through the night; dawn arrives; woman vanishes at sunrise; doors suddenly open. Marshall flees.  
+- 58:00–62:00 — Police interception at the bottom of the mountain; Detective Nakamura reveals body images on phone — Uncle Jeff found under the floorboards; forensics converge on the house.  
+- 62:00–63:49 — Crime scene investigation uncovers another body sealed in the wall (identified later as Denise McLaughlin), discussion of property’s cursed reputation; Marshall gives statements and eventually leaves Japan.
+
+6. Emotional Arc
+- Confusion and guilt — Opening the inheritance after years of estrangement; confronting unresolved history with Uncle Jeff.  
+- Curiosity and obligation — Marshall’s decision to go see the property despite unease.  
+- Growing unease — Silent surroundings, signs of violence, and the ominous letter build dread.  
+- Fear and panic — Night terrors, supernatural apparitions, entrapment, and physical manifestations (cold, frost, vanished keys).  
+- Relief and horror — Survives the night but learns Jeff was dead under the floorboards; immediate relief is undercut by grief and guilt.  
+- Grief, survivor’s guilt, and paranoia — Investigation and identification of long-buried victim link to family and property; Marshall cannot find peace.  
+- Persistent dread and resignation — Attempts to escape (moving to Seattle) but ongoing hauntings and trauma remain; ending with ambiguous, unresolved haunting.
+
+7. Themes and Motifs
+- Themes
+  - Inheritance as burden: inheritance brings not just property but secrets, responsibility, and danger.  
+  - Family estrangement and guilt: past conflict with Uncle Jeff and the narrator’s guilt about absence and ignorance.  
+  - The past trapped in the present: physical sealing of victims (under floorboards/walls) as a metaphor for buried crimes and secrets resurfacing.  
+  - Rationalism vs. superstition: engineering/rational narrator confronts events outside logical explanation; rural superstition and history clash with modern skepticism.  
+  - Entrapment and helplessness: literal (sealed doors, trapped bodies) and psychological entrapment (haunting memories, PTSD).  
+  - The cost of curiosity: seeking answers exposes Marshall to mortal and psychological danger.  
+  - Incomplete justice and unresolved trauma: crime investigation yields facts but not full closure; lasting effects remain.
+- Motifs / Recurring imagery
+  - Silence (unnatural absence of ambient sound) — underscores isolation and foreboding.  
+  - Cold/frost inside the house during summer — immediate supernatural marker of the apparition’s presence.  
+  - White dress and long black hair — the woman’s recurring visual signature (links to classic ghost imagery).  
+  - The child with hollow eyes and silent scream — corrupted innocence and emotional amplification without sound.  
+  - Sealed, enclosed spaces — floorboards, wall cavities, attic — representing buried secrets and literal imprisonment.  
+  - Time of night vs dawn — danger tied to darkness and release tied to sunlight.  
+  - Letters as catalysts — Jeff’s letter transforms suspicion into action and provides a textual bridge to the past.

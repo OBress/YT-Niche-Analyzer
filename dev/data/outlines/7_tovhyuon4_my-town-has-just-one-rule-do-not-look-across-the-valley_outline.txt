@@ -1,0 +1,88 @@
+# 1. Title
+- My Town Has Just One Rule. Do Not Look Across The Valley.
+
+# 2. Main Characters
+- Jerry Bell (narrator) — detail-oriented, memory keeper; survives and retains the true account.
+- Douglas Rush — taciturn natural leader; organises and leads the crossing.
+- Scott Noble — talkative, jokester; frightened and emotional when things go wrong.
+- Curtis Walker — cautious, inquisitive; glasses-wearing, ultimately a victim.
+- Jackson Reyes — liar/storyteller; later replaced by a wrong duplicate and drowned by the town.
+- The Tall Woman (Eastmarch figure) — impossibly tall, motionless-to-animate, smiles with contradictory expression; agent of the valley.
+- Westvale adults (collective) — know the rule, perform the community response/ritual, enforce forgetting.
+
+# 3. Setting
+- Westvale — small settlement on one side of Grayvale/Greysvale Valley (home), conservative and secretive.
+- Eastmarch — forbidden settlement on opposite shore: geometrically “wrong” buildings and empty streets, a mirror/distorted reflection of familiar domestic spaces.
+- Grayvale/Greysvale Valley river — the dark water boundary; ferry/skiff crossings; ford.
+- Time & atmosphere — autumn with abnormal fog, predawn departure, deepening dusk during events; pervasive hush and wrong silence in Eastmarch.
+
+# 4. Narrative Structure
+- Exposition (0:00–17:00)
+  - Introduction of Westvale’s unspoken rule (don’t look at Eastmarch); character sketches; obsession with Eastmarch; Douglas proposes crossing.
+- Rising Action (17:00–58:00)
+  - Midnight/early-morning preparations; theft/“borrowing” of skiff; rowing across the river; sharks circling; boat strikes a hidden shoal and sinks; landing on Eastmarch shore; initial observations of wrong geometry; first sighting of the tall woman and the duplicates; paralysis by her scream; disappearance.
+- Climax (58:00–92:00)
+  - Exploration of Eastmarch forest and house with mirrored/domestic wrongness; Jackson’s disappearance inside the house; Jackson reappears changed (oddly composed); path/forest rearranges; arrival at Eastmarch dock and ferry; tall woman abducts Curtis and slowly kills him while the boys watch helplessly.
+- Falling Action (92:00–105:00)
+  - The four survivors escape by ferry; the return crossing; arrival at Westvale where adults are waiting and carry out the town’s ritual response—Jackson (or his duplicate) is led into the water and drowned; community enacts a narrative (Curtis moved; Jackson left town) that erases the true facts.
+- Resolution (105:00–end)
+  - Jerry attempts to tell the truth but finds collective memory already rewritten; the town insists on the officially accepted version; Jerry remains the sole keeper of the real memory and accepts living with that burden.
+
+# 5. Key Plot Points with timestamp ranges
+(Approximate divisions of the full duration: total 127:59)
+
+- 00:00–17:00 — Rule, characters, obsession
+  - Setup: Westvale’s silent prohibition against Eastmarch; introduction of Jerry, Douglas, Scott, Curtis, Jackson; favorite watch spots; Douglas’s plan to cross.
+
+- 17:00–28:00 — Planning & departure
+  - Finalizing plan (Thursday 5:00 AM); preparation, predawn approach to dock; stealing/borrowing the ferry skiff; boarding.
+
+- 28:00–40:00 — River crossing & disaster
+  - Rowing across; blacktip river sharks appear and harry them; repeated impacts; skiff hits hidden shoal; hull cracks; sinking and abandoned supplies.
+
+- 40:00–58:00 — Arrival at Eastmarch shore; first encounter with the uncanny
+  - Climb up a worn path; the landscape’s “wrongness”; first appearance of the impossibly tall woman and the duplicates; her impossible stretch and scream that immobilizes them; sudden vanish.
+
+- 58:00–78:00 — House in the woods; Jackson vanishes
+  - Deeper into forest; door/latch sounds; discovering a backwards/mirrored house with photos and objects reversed; Jackson disappears inside; search; Jackson later reappears changed and oddly composed.
+
+- 78:00–92:00 — Forest labyrinth, Curtis taken
+  - Forest path rearranges; failing to regroup; beaching at an Eastmarch dock with a ferry; tall woman emerges carrying Curtis; Curtis struggles and is slowly killed (neck break); Jackson’s awkward behavior (wrong smile); boys flee on ferry.
+
+- 92:00–105:00 — Return to Westvale; adult rituals
+  - Crossing back in silence; Westvale adults waiting on shore; controlled reactions; orchestrated drowning of the Jackson-duplicate by townsmen; adults recite the sanitized story (Curtis moved away, Jackson left town).
+
+- 105:00–127:59 — Aftermath & isolation
+  - Jerry tries to tell truth; town and peers share alternate memories (Curtis moved to Millbrook; Jackson left); school scene; Jerry remains the sole person who remembers the real events and accepts the burden.
+
+# 6. Emotional Arc
+- Curiosity/Anticipation — kids’ fascination with a taboo; shared conspiratorial energy.
+- Excitement/Nerve — planning and departing in the dark; thrill of breaking the rule.
+- Tension/Fear — sharks, sinking skiff, struggle in the water; landfall with wrongness.
+- Horror/Awe — encountering the tall woman, hearing the scream, watching the impossible geometry and duplicates.
+- Grief/Powerlessness — Curtis’s death witnessed helplessly; Jackson’s strange transformation; inability to rescue them.
+- Shock/Alienation — return home; adults’ denial/rewrite of events; narrator’s isolation.
+- Resigned Burden — Jerry’s acceptance of being the lone keeper of the true memory.
+
+# 7. Themes and Motifs
+- Forbidden knowledge and curiosity
+  - The children’s desire to know, the town’s prohibition, and the cost of transgression.
+- Boundary as moral/ontological barrier
+  - The river/valley is a literal and symbolic border; crossing it leads to reality alteration and loss.
+- Memory, forgetting, and communal denial
+  - Westvale’s practiced forgetting; community-sanctioned rewrites; memory as protection and moral compromise.
+- Doubles, mirroring, and inversion
+  - Reversed photographs, mirrored clothing/buttons, duplicates of the boys — the uncanny of the “reflection” gone wrong.
+- Domestic uncanny
+  - Familiar household items (portraits, clocks, porches) presented with subtle but disturbing inversions (clocks half-behind, photos mirrored) to corrupt safety.
+- Wrong geometry / “off” perception
+  - Tilted buildings, misplaced shadows, angles that hurt the eyes — visual motifs that signify altered reality.
+- Maternal perversion
+  - The tall woman’s contradictory “maternal” smile (cheeks lifted, mouth downward) — twisted care as threat.
+- Ritual and community survival
+  - The adults’ coordinated, almost ritualized handling of duplicates and losses to preserve the town’s functioning.
+- Sound & silence as force
+  - The woman’s inhuman scream that immobilizes; the town’s enforced silence and polite narrative.
+
+Summary observation
+- The story functions as a dark fable about curiosity and communal survival: a town maintains order by refusing knowledge and by periodically sacrificing (or substituting) what challenges its reality. The narrator’s role is crucial — he preserves memory and truth alone, with the cost of social isolation and ongoing trauma. The repeated motifs of mirrors, reversal, and maternal inversion create an atmosphere of uncanny domesticity turned monstrous, while the river-as-boundary literalizes the cost of crossing into forbidden knowledge.

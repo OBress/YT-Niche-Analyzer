@@ -1,0 +1,83 @@
+- Title
+  - I'm a Forest Ranger. Strange Things Come Out at Night.
+
+- Main Characters
+  - Bryce Johnston — narrator; newly hired ranger (three weeks on job), investigator, survivor.
+  - Alfred Fowler — veteran ranger (~18–20 years experience); Bryce’s partner; haunted by the disappearance of his former partner; later killed and transformed.
+  - Raymond Santiago — chief of the ranger station; authoritative, enforces silence/cover-up.
+  - Miles Allen — Alfred’s missing partner (disappeared 7 years earlier); later revealed transformed/part of the creatures.
+  - Martinez — night-shift ranger/dispatcher at the station (minor supporting role).
+  - The Creatures — tall, misshapen, predatory entities in the forest (collective antagonist).
+  - Minor: Murphy’s Bar patrons and staff (context/background).
+
+- Setting
+  - Primary: Cascade National Forest / Blackwood area — deep, remote conifer forest, logging roads, old logging grove where the ritual hanging occurs.
+  - Secondary: Forest ranger station (administrative hub), Murphy’s Bar (private meeting place), town/library/copy shop/roads leading away (civilian settings).
+  - Timeframe: Night-shift patrols and following days/weeks; nocturnal, low-light environment is crucial.
+
+- Narrative Structure
+  - Exposition (0:00–20:00 / 0–1,200 s)
+    - Bryce is introduced as a rookie ranger on night patrol with Alfred; routine patrol details and forest atmosphere are established.
+    - Alfred’s expertise and the job’s unstated dangers are hinted at.
+    - First contact: a towering, unnatural figure stands in the road; Alfred insists they leave.
+  - Rising action (20:00–60:00 / 1,200–3,600 s)
+    - Bryce is hauled into Chief Raymond’s office and warned: certain things are “better left alone.”
+    - Alfred arranges a private meeting at Murphy’s Bar and confesses a past incident: Miles Allen’s disappearance seven years earlier at the same location.
+    - Alfred recruits Bryce to return to the grove to look for answers; Bryce reluctantly agrees.
+  - Climax (60:00–75:00 / 3,600–4,500 s)
+    - Bryce and Alfred return to the grove on foot, find Miles’ hanging remains; creature attacks, snaps Alfred’s neck, and drags Alfred away. Bryce flees.
+  - Falling action (75:00–115:00 / 4,500–6,900 s)
+    - Bryce confronts the station and bureaucracy: Raymond covers the disappearance (forged resignation, moved truck).
+    - Bryce researches archival disappearances (identifies ~seven-year pattern and geographic clustering).
+    - Bryce prepares evidence (buys camera) and returns alone to photograph proof.
+    - The creature replaces Miles’ remains with Alfred’s; Bryce photographs it and escapes with definitive images.
+  - Resolution (115:00–122:23 / 6,900–7,343 s)
+    - Bryce mails evidence to journalists and regional contacts, arranges an official transfer out of the area, completes a final patrol and sees Alfred and Miles transformed among the creatures.
+    - He leaves town; the cover-up likely continues, but Bryce has documented proof and has survived to tell the story.
+
+- Key Plot Points with timestamp ranges (approximate)
+  - 00:00–20:00 (0–1,200 s) — Opening patrol; introduction to Bryce and Alfred; description of Cascade National Forest; routine stories; first sighting of the tall figure standing in the road; Alfred forces an abrupt retreat.
+  - 20:00–40:00 (1,200–2,400 s) — Return to station; Bryce summoned by Chief Raymond; Raymond’s chilling admonition to “mind your own business” and not report inexplicable things; Alfred arranges a secret meeting at Murphy’s Bar.
+  - 40:00–60:00 (2,400–3,600 s) — Murphy’s Bar confession: Alfred recounts Miles Allen’s disappearance seven years earlier and his lingering guilt; Alfred asks Bryce to help him return to the grove.
+  - 60:00–75:00 (3,600–4,500 s) — Night return into the old logging area; discovery of Miles’ hanging remains; creature appears, attacks and kills Alfred; Bryce flees into the truck and drives away.
+  - 75:00–90:00 (4,500–5,400 s) — Bryce returns to station; finds radio static; Raymond and others enact a cover story (resignation letter; truck moved); Bryce is pressured to be silent and placed on administrative leave.
+  - 90:00–100:00 (5,400–6,000 s) — Bryce researches archives at the library; uncovers multiple disappearances clustered geographically and temporally (seven-year cycles).
+  - 100:00–115:00 (6,000–6,900 s) — Bryce buys camera, returns alone to the grove; Miles’ skeletal body is gone; creature drags Alfred’s dismembered remains into place, Bryce photographs the act and flees; multiple creatures observed at forest edge.
+  - 115:00–122:23 (6,900–7,343 s) — Bryce compiles evidence, mails packets to journalists and regional Forest Service contacts; arranges transfer away from area; final patrol: Bryce sees Alfred and Miles among the transformed creatures at Timber Ridge Road; he leaves town, the cover-up presumably continuing.
+
+- Emotional Arc
+  - Curiosity / Newcomer uncertainty — Opening: Bryce is new, eager to learn the forest and the role.
+  - Unease / Suspicion — After first sighting; Alfred’s uncharacteristic urgency and Raymond’s warning unsettle Bryce.
+  - Shock / Dread — Murphy’s confession of Miles’ disappearance; realization the phenomenon is real and deadly.
+  - Guilt / Complicity — Bryce participates in Alfred’s plan; feels responsible after Alfred’s death.
+  - Terror / Survival instinct — The grove attack and the visceral trauma of seeing Alfred killed and mutilated.
+  - Isolation / Betrayal — Station cover-up, forged resignation, and Raymond’s dismissal leave Bryce alone with the truth.
+  - Determination / Resolve — Researching archives, buying equipment, returning alone to document evidence.
+  - Rage / Purposeful fear — Capturing photographic proof; confronting systemic secrecy in his own way.
+  - Resignation / Foreboding — Leaves town with evidence but with the knowledge the cover-up may persist; survivor’s burden remains.
+
+- Themes and Motifs
+  - Secrecy and institutional cover-up
+    - Repeated patterns of authorities suppressing inexplicable events (forged resignation, moved truck, Raymond’s warnings).
+  - The forest as living, predatory environment
+    - The woods are not neutral backdrop; they actively conceal and harbor the creatures and rituals.
+  - Duty vs. truth / moral complicity
+    - Rangers are told to “mind your business” — professional duty conflicts with moral duty to truth and to victims.
+  - Guilt, grief, and the need for closure
+    - Alfred’s guilt about Miles drives the central action; guilt motivates both reckless return and Bryce’s later investigation.
+  - Transformation and recruitment
+    - The creatures don’t just kill — they transform former humans (Alfred, Miles) into new members of their ranks.
+  - Vision, seeing, and the road motif
+    - Repeated injunctions to “keep your eyes on the road”; acts of looking (flashlight, camera flash) provoke the creatures.
+  - Cycles and temporality
+    - Seven-year pattern of activity and disappearances; ritual repetition across decades.
+  - Night, shadows, and misperception
+    - Low light as both concealing force and catalyst for “sightings”; authority gaslights survivors by attributing experiences to tricked perception.
+  - Ritualized violence and staging
+    - Hanging/removal/placement of bodies suggests deliberate ritual and long-run patterns, not random predation.
+
+Notes and observations
+  - The narrator is an unreliable-but-credible witness: his direct eyewitness accounts (first sighting, Alfred’s death, the photographic proof) ground the horror, but institutional forces and fear make official validation unlikely.
+  - The story’s escalation moves from an ambiguous, scary sighting to a systemic menace with cultural and administrative consequences — it’s as much about the conspiracy of silence as about the creatures themselves.
+  - Visual motifs (flashlight beams, headlight beams, camera flash) function narratively: light reveals, provokes, and threatens.
+  - The final state is ambiguous: Bryce escapes with evidence and distance, but the forest—and the secrecy protecting it—remain intact.

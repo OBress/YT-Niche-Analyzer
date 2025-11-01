@@ -1,0 +1,82 @@
+1. Title
+- I Lead Night Patrols in Afghanistan. Something is Hunting Us.
+
+2. Main Characters
+- Staff Sergeant Edward “Eddie” Bowen — narrator and patrol leader; competent, experienced, haunted survivor.
+- Kyle (Dennis) — rookie, nervous, point man; psychically overwhelmed by the events.
+- Raiden Warren — reliable, steady farm kid; perceptive (left letters describing premonitory sightings).
+- Marvin — rookie; fires at the creature; panics when ineffective.
+- Randy — rookie; killed early in the encounter.
+- Jorge — squad member; calm before attack; last transmissions include terrified screaming.
+- The Faceless Entity — tall, coat-like, smoke-like predator that ignores bullets, manipulates radios and perception.
+- Captain Reeves — base officer who helps evacuate Bowen; skeptical.
+- Major Kelly — battalion XO; enforces official narrative, threatens psychiatric detention.
+- Dr. Winters — military psychologist; interprets events as trauma-induced hallucination / PTSD.
+- Medic / Dr. Simmons / other medical staff — provide treatment, sedation, and tests.
+- Families (e.g., the Warrens) — contact point that provides Raiden’s letters and humanizes the losses.
+
+3. Setting
+- Kalar Village (night): deserted mud‑brick village, market stalls left mid‑transaction, eerie silence, winding alleys that seem to shift — primary site of the horror.
+- Drainage ditch/eastern sector of the mosque — where Kyle hides.
+- Outskirts / path to extraction point — flight through maze-like streets, dawn break.
+- Helicopter, field medic area, base medical facility / conference room — rescue and debrief/interrogation setting.
+- Bowen’s apartment / transition housing — months-later aftermath, research and obsession; location of the printed report and radio hauntings.
+- Timeframe: single night patrol (night → dawn) and the subsequent months of medical processing and discharge.
+
+4. Narrative Structure
+- Exposition
+  - Briefing and departure for a routine night sweep of Kalar Village; Bowen introduces the rookies and the mission parameters; narrator senses something is wrong.
+- Rising Action
+  - The village is unnaturally empty and silent; tension builds as rookies grow jittery; Kyle fires at an apparent figure without confirmation; subsequent sightings escalate; peripheral movement and radio static create paranoia.
+- Climax
+  - The faceless entity attacks: Randy is thrown; Marvin’s bullets pass through the creature; rapid disappearances of squad members; Jorge’s terrified radio scream; Bowen is chased through a shifting village; Kyle collapses in front of the predator; Bowen flees terrified.
+- Falling Action
+  - Dawn arrives and the creature withdraws; Bowen is found alive, evacuated by helicopter; medical exams follow; interrogation and skepticism from higher command; Dr. Winters diagnoses PTSD.
+- Resolution
+  - Official narrative frames the incident as a Taliban ambush with bodies removed; Bowen is medicated and discharged; he obsessively researches similar incidents, documents his account, hides the folder, and remains haunted by voices and survivor guilt — vowing to keep the truth.
+
+5. Key Plot Points with timestamp ranges (video length: 4661 s ≈ 77:41)
+(Note: timestamps are approximate proportional divisions of the full transcript/recording.)
+- 0:00–5:00 (0–300s) — Briefing and gear checks; introduction of the rookies and mission plan; narrator’s unease.
+- 5:00–15:00 (300–900s) — Entry into Kalar Village; discovery of unnatural silence and abandoned market; atmospheric buildup.
+- 15:00–25:00 (900–1500s) — Increased tension among rookies; Kyle becomes jumpy; odd peripheral movement noted.
+- 25:00–35:00 (1500–2100s) — Kyle fires on an apparent target without confirmation; squad’s night vision disabled temporarily; first search reveals nothing; Bowen rebukes Kyle.
+- 35:00–45:00 (2100–2700s) — The faceless figure materializes and attacks; Randy is killed; Marvin’s bullets pass through the entity; Jorge’s radio screams; squad members vanish.
+- 45:00–60:00 (2700–3600s) — Bowen and remaining men attempt to escape; Kyle hides in drainage ditch; radio plays prerecorded/ distorted voices; Bowen chases a disoriented Kyle through a maze-like, shifting village; Kyle collapses.
+- 60:00–68:00 (3600–4080s) — Dawn breaks; the entity withdraws; Bowen reaches the outskirts and collapses; rescue by helicopter and field medic stabilization.
+- 68:00–77:41 (4080–4661s) — Medical debriefing and interrogation; Dr. Winters diagnoses PTSD; official report frames incident as enemy ambush; Bowen is sedated, later discharged; months-long aftermath, research, documentation, and obsession.
+
+6. Emotional Arc (Bowen’s trajectory)
+- Professional confidence / routine command in briefing.
+- Prickling unease as the environment readjusts expectations.
+- Frustration and anger (after Kyle fires without authorization).
+- Rising dread and confusion as unexplainable events escalate.
+- Terror and primal flight during the creature’s attack and the chase.
+- Overwhelming guilt and survivor’s despair after dawn and rescue.
+- Isolation, disbelief, and institutional betrayal during debriefing/interrogation.
+- Obsession, determination, and quiet defiance as Bowen documents and hides the truth; persistent hauntedness (voices, insomnia).
+
+7. Themes and Motifs
+- Trauma, survivor’s guilt, and memory
+  - Bowen’s repeated insistence that he alone remained, the mental collapse cast as “unreliable memory,” and his obsessive documentation.
+- Unreliable perception vs. institutional narrative
+  - The clash between Bowen’s firsthand account and the military’s official, convenient explanation (Taliban ambush / PTSD).
+- Silence and absence
+  - The empty, soundless village, abandoned market stalls, and missing bodies emphasize an unnatural erasure.
+- Face / facelessness and the void
+  - The creature’s lack of a face (a void) as a motif of unknowable evil and the erasure of identity (the missing men become absent not only physically but narratively).
+- Radio and technology as conduits of horror
+  - Radios replay the voices of the missing, broadcasting final moments and manipulating perception — technology used as a tool of psychological torment.
+- Night vision / green glow
+  - The night-vision aesthetic (otherworldly green) reframes reality and contributes to disorientation; a motif for altered perception.
+- Institutional denial and bureaucratic closure
+  - Official reports, medicalization, and threats of psychiatric detention indicate a system that suppresses anomalous truths to maintain order.
+- Recurring geography and shifting spaces
+  - Villages, alleys, and streets that shift or appear/disappear mirror the narrator’s unstable memory and the creature’s manipulation of space.
+- Repetition / echo
+  - Voices that loop, repeated radio transmissions, the recurrence of missing-patrol patterns elsewhere — the story implies a pattern beyond one isolated incident.
+
+Additional notable elements / narrative tensions
+- The transcript contains inconsistent place names (Kalar / Cholar / Kellar), which functions as a textual motif reinforcing unreliable memory, bureaucratic smoothing, or the narrator’s fading certainty.
+- Dual antagonists: a literal, possibly supernatural predator and the institutional disbelief that erases the men’s true fate.
+- The ending closes on action (Bowen’s decision to document and hide the truth) rather than resolution, preserving the story’s lingering dread and unresolved quest for answers.

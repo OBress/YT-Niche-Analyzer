@@ -1,0 +1,64 @@
+1. Title
+- Do Not Camp Under A Blood Moon. Strange Things Happen.
+
+2. Main Characters
+- Jake (first-person narrator) — city-dweller reluctantly dragged into camping, protective partner, investigator, eventual protector/ritual actor.
+- Nancy — experienced outdoorswoman; loving, enthusiastic; becomes the target/host of the supernatural influence.
+- The Woman / Entity — an ancient, inhuman figure that appears at the forest edge (and later through Nancy), tattered flowing clothes that move without wind, multiple eyes/unnatural face; hunts under lunar events.
+- Minor/Implied: Nancy’s mother (mentioned in backstory), park/ranger/other campers (background references).
+
+3. Setting
+- Blackwood National Forest — primary location: a small clearing ringed by pines, mossy fallen log, trailhead and parking lot; described as remote, prone to unusual silence during lunar events.
+- Jake and Nancy’s apartment — urban domestic setting where the entity continues to influence Nancy (windowsill arrangements, balcony ritual).
+- Temporal setting: contemporary, centered around a blood moon / lunar eclipse and later another lunar event; includes night and daytime contrasts.
+
+4. Narrative Structure
+- Exposition
+  - Jake reluctantly prepares for camping with Nancy; introduces Nancy’s love of celestial events and the blood moon lore. (Establishes relationship, setting, narrator’s skepticism.)
+- Rising Action
+  - Arrival at Blackwood, uneasy silence in the woods, setting camp, blood moon rises and bathes clearing in red, Jake’s nightmare and waking to footsteps, Nancy sleepwalking into the clearing and being entranced by the Woman, Jake dragging her back into the tent after a violent struggle. Jake’s uncertainty when Nancy denies remembering. (Tension, mystery, seeds of obsession.)
+  - Aftermath: Nancy’s subtle behavioral changes, mysterious collections appearing in the apartment, sleepwalking to balcony rituals (moon-facing), Jake’s research into similar incidents and discovery of patterns and prior reports. Jake’s growing fear and decision to return prepared. (Escalation of supernatural influence and stakes.)
+- Climax
+  - Return to Blackwood prepared with iron nails, sage and protective intent. Confrontation in the clearing during a near-full moon: entity appears; Jake constructs a protective iron circle, uses burning sage and recited protective phrases; intense psychic/physical assault (screech, Jake’s ears bleed, Nancy convulses). Jake persists; the entity shatters on the iron barrier and dissolves. (High point of danger and ritual conflict.)
+- Falling Action
+  - Nancy recovers within the iron circle; fragmented memories surface and are shared. Dawn returns; the couple leaves the forest. The immediate threat is gone, but consequences (physical and psychological) remain.
+- Resolution
+  - They drive away from Blackwood. Jake and Nancy vow to avoid wilderness during blood moons; lingering trauma and knowledge that ancient things still exist — temporary respite, but permanent change to their lives and sense of safety.
+
+5. Key Plot Points with timestamp ranges (total duration 5260s / ~87 min)
+- 0:00–300s — Opening at Jake’s apartment: calendar, Nancy’s excitement, Jake’s reluctance; drive toward Blackwood; Nancy’s blood moon explanation.
+- 300–900s — Arrive at trailhead; hike into forest; choose clearing; first unease — oppressive silence noticed while setting camp.
+- 900–1800s — Night falls; blood moon rises; forest turns crimson; oppressive silence increases; Jake’s uneasy dream; they sleep in tent.
+- 1800–2400s — Jake wakes to footsteps; Nancy sleepwalks out of tent; Jake follows and discovers Nancy standing transfixed and the woman in tattered clothes at the forest edge; physical struggle to drag Nancy back into tent; Jake seals tent.
+- 2400–3000s — Morning denial: Nancy remembers nothing; they break camp and return to car; Jake doubts his sanity; lingering unease on the drive home.
+- 3000–3600s — Post-trip life: Nancy’s subtle changes, collections appearing in their apartment, window/balcony moon rituals; Jake begins researching Blackwood and finds pattern of similar accounts.
+- 3600–4200s — Jake’s obsessive prep: learns of another blood moon; buys protective supplies (iron nails, sage, salt); decides to return to Blackwood to confront the influence.
+- 4200–4920s — Return to clearing; night confrontation: forest goes silent; Nancy drawn out again; Jake forms iron-nail circle, lights sage, recites protective phrases; entity attacks (screech, physical stress, Nancy convulses); Jake holds barrier and forces entity to dissolve.
+- 4920–5100s — Immediate aftermath: Nancy regains coherent self, shared memories emerge, dawn approaches; they pack and leave cautiously.
+- 5100–5260s — Resolution driving away from Blackwood: decision to avoid blood moons/wilderness at such times; lingering trauma and the knowledge that other ancient threats exist.
+
+6. Emotional Arc
+- Initial ambivalence/resignation — Jake’s reluctant acceptance of the trip for love of Nancy; light teasing, domestic warmth.
+- Growing unease/anxiety — silence in forest, strange atmosphere; narrator’s city instincts heighten worry.
+- Terror / helplessness — night intrusion, sleepwalking, the woman at the tree line; confrontation and violent struggle; fear of losing Nancy to an unseen force.
+- Isolation and paranoia — after morning denial, Jake doubts himself; sleeplessness, nightmares, obsessive research, and feeling alone because Nancy denies/doesn't recall.
+- Determination / protective resolve — Jake prepares protective items, decides to face the threat to save Nancy.
+- Intense crisis / cathartic confrontation — battle with the entity; physical and psychic strain; successful banishment.
+- Relief mixed with trauma — Nancy returns; immediate danger ends, but both bear scars (physical: Jake's bleeding ears/welts; psychological: nightmares, irreparable knowledge).
+- Persistent vigilance / resignation — final vow to avoid blood moons; acceptance that the world is stranger and more dangerous.
+
+7. Themes and Motifs
+- The moon as liminal catalyst — the blood moon (lunar eclipse) functions as a thinning of boundaries between worlds; moonlight changes perception and invites otherworldly presence.
+- Boundary between worlds / liminality — spaces where the human world and other things overlap (forest edge, windows facing moon, the tent clearing during eclipse).
+- Silence as omen — unnatural, oppressive silence recurs as a herald of supernatural presence.
+- Loss of agency & memory — victims (Nancy, and referenced others) experience sleepwalking, missing time, and actions performed without recollection.
+- The Other as mimic/parasite — the Woman/Entity uses mimicry, overlays faces, or steals control; it leans on familiarity to infiltrate.
+- Ritual and folk protections — use of iron, salt, sage, spoken protective phrases; bricolage of folklore as practical defense.
+- Nature’s duality — forest presented both as wondrous (Nancy’s love) and predatory; wilderness as place of beauty and danger.
+- Domestic intimacy / sacrifice — Jake’s love motivates him to risk everything; relationship tested by supernatural influence, culminating in protective action.
+- Memory, reality, and doubt — the narrator’s uncertainty about what was real vs. dream; how subjective experience can isolate someone.
+- Objects as tokens/offering — the arranged stones, feathers, and found items as potential marks of influence or ritual offerings; motif of small things arranged into larger pattern.
+- Light vs dark / human-made vs ancient — modern urban safety (lights, people) contrasted with isolated, ancient wilderness where old things still hunt.
+
+End summary
+- The story follows a gradual escalation from mundane couple’s camping trip into a full supernatural conflict triggered by a blood moon. It examines how liminal times and places can erode agency and memory, the strain that such unexplainable phenomena put on intimate relationships, and the recourse to ritual/folk practices when modern explanations fail. The climax resolves the immediate threat but leaves the protagonists changed and wary, with the implication that other ancient dangers persist beyond this single victory.

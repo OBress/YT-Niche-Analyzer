@@ -1,0 +1,75 @@
+1. Title
+- My New Factory Job Came with a List of Terrifying Rules.
+
+2. Main Characters
+- Marcus Thompson — Narrator / new hire; unemployed, desperate for income, becomes the reader’s point-of-view.
+- Christian Walker (also referenced as Gerald at one point) — Supervisor figure; calm, measured, acts as guardian/administrator of the factory’s hidden rules.
+- Ember Mills — Experienced line worker (Line 7); taciturn, resigned, model of adaptation.
+- Gary Calderon — Co-worker at Marcus’s station; methodical, emotionally detached survivor.
+- Bodhi Graves / “David” (appearance impersonated by an entity) — Victim / impersonated face used by shape‑shifting creature; the creature itself (unnatural teeth, reflective eyes, inhuman movement).
+- The Shape‑shifting Entities / “Things” — Unnamed predators that can take human appearance, signalling the factory’s true danger.
+- Other Night Workers — Collective workforce who understand, follow, and enforce the unwritten/supernatural rules.
+
+3. Setting
+- Meridian Manufacturing — A modest-looking factory/warehouse with painted-black windows (obscuring interior), a clinical reception, beige corridors that stretch impossibly long, and fluorescent lighting that flickers/strobes in unnatural rhythms.
+- Production Floor: Line 7 — Concrete floors, conveyor belts, packaging stations, a sparse workforce that works in near‑silence.
+- Restricted Areas — Corridors and doors marked by red tape; behind some lies refrigerated rooms with dismembered human remains arranged clinically.
+- Timeframe — Night shift culture (late night to early morning); recurrent cycles across weeks/months.
+
+4. Narrative Structure
+- Exposition
+  - Marcus arrives desperate for employment; first impressions of Meridian Manufacturing (painted windows, strange smell). He meets Christian, receives a laminated rule card with bizarre directives.
+- Rising Action
+  - Hallways stretch impossibly long; Christian disappears mid-tour; Marcus starts Line 7, meets Ember and Gary; the factory atmosphere (silence, flickering lights, voices from empty areas) grows stranger. Marcus breaks a rule by crossing red tape and discovers a morgue-like room of dismembered bodies.
+- Climax
+  - An entity (wearing Bodhi/David’s face) reveals itself on the production floor with inhuman movement and rows of teeth; Marcus is chased, barely escapes by slamming and barricading an emergency exit while the thing pounds and clicks outside.
+- Falling Action
+  - Christian and co-workers reappear, calmly normalize the horror and explain the rules as survival protocols. Marcus goes home, receives an obligatory message telling him to return. He reluctantly chooses to come back, follows the rules, and helps enforce them.
+- Resolution
+  - Marcus adapts over months: steady pay, survival competence, emotional numbing. He internalizes the rules, coexists with the factory’s monstrous reality, and continues working night shifts—safe but morally compromised.
+
+5. Key Plot Points with timestamp ranges (mm:ss of a 71:42 total runtime)
+- 00:00–05:30 — Arrival and first impressions: painted windows, parking lot, reception; Christian introduces himself and gives Marcus the laminated rule card containing bizarre directives.
+- 05:30–12:30 — Corridors and disappearance: hallway stretches impossibly long; Marcus reads rules aloud; Christian vanishes mid-walk.
+- 12:30–18:30 — Production floor, coworkers: Marcus is assigned Line 7; meets Ember and Gary; eerie silence, flickering lights, voices from empty areas.
+- 18:30–28:00 — Curiosity and rule breach: Marcus searches for restroom, crosses red tape, follows humming to partially open door and discovers the refrigerated room with dismembered bodies.
+- 28:00–33:00 — Panic and attack: Marcus flees back to Line 7; co-workers gone; monster (as Bodhi/David) confronts him with unnatural smile/teeth; desperate escape to emergency exit; door battered.
+- 33:00–38:00 — Aftermath and “explanation”: Christian, Ember, Gary return calmly; Marcus is told the rules are survival instructions; they downplay/normalize the morgue-room evidence.
+- 38:00–46:00 — Forced return: Marcus leaves, gets a text ordering him back; he returns next night intending to obey rules and survive.
+- 46:00–60:00 — Adaptation montage: Marcus follows rules, witnesses a new employee transformed, reports it; learns how the factory handles replacements and the role of Christian; money stabilizes his life.
+- 60:00–71:42 — Acceptance and ongoing cycle: Months pass; Marcus becomes proficient, routine settles in—he works, sleeps days, repeats; the final resolution shows resigned survival and ongoing employment despite the costs.
+
+6. Emotional Arc
+- Desperation (arrival): Marcus is exhausted, financially desperate, willing to accept anything.
+- Unease/Curiosity: Small odd details (painted windows, strange rules) provoke suspicion and curiosity.
+- Growing Anxiety → Horror (discovery): Finding the dismembered bodies triggers visceral revulsion and panic.
+- Terror (attack): Direct confrontation with a predatory entity sparks survival terror and flight.
+- Isolation/Disbelief (aftermath): Cof‑workers’ normalization of horror creates cognitive dissonance and alienation.
+- Conflict/Practicality: Marcus battles the moral instinct to flee versus practical need to survive financially.
+- Resignation → Adaptation: He accepts the rules, trains himself not to look, and emotionally numbs.
+- Grim Stability: The story ends with uneasy equilibrium—Marcus safe, paid, but complicit and altered.
+
+7. Themes and Motifs
+- Survival vs. Morality
+  - The factory forces a pragmatic ethics: follow rules to survive, even if it means ignoring atrocities.
+- Normalization and Bureaucracy of Horror
+  - Corporate procedures, laminated rule cards and managerial calm make the supernatural a workplace hazard to be administered rather than investigated.
+- Dehumanization
+  - Workers become interchangeable; people who don’t adapt disappear and are literally replaced.
+- Liminal Spaces and Distorted Architecture
+  - Corridors that stretch impossibly, painted windows, red-taped thresholds denote a world that breaks physical rules.
+- Rules as Authority and Safety
+  - The laminated card, red tape, and specific directives become rites of passage and the only protective logic.
+- Light, Reflection, and Sight
+  - Flickering fluorescent lights, reflective eyes, and warnings about reflective surfaces emphasize the danger of looking/seeing.
+- Repetition and Routine
+  - Conveyor belts, packaging rhythm, and recurring night shifts underscore how monstrous reality becomes routinized.
+- Commodification of Bodies/People
+  - The clinical arrangement of dismembered parts and the replacement of employees suggest commodified human value.
+- Silence and Voice
+  - Voices from empty rooms, synchronized responses, and the rule to ignore one’s name create an atmosphere where sound is both weapon and lure.
+- Red Tape as Boundary
+  - Literal and metaphorical marker between survivable/workplace reality and rooms/knowledge that destroy.
+
+End note
+- The story functions as both horror piece and workplace allegory: it explores how economic desperation, bureaucratic structures, and the drive for stability can compel people to accept monstrous compromises—turning the extraordinary into a tolerable routine.

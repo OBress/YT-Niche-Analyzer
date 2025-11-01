@@ -1,9 +1,10 @@
-"""Pipeline orchestrator for sequential YouTube story processing."""
+"""Pipeline orchestrator for parallel YouTube story processing."""
 from __future__ import annotations
 
 import sys
 from pathlib import Path
 from typing import List
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from requests import Session
 
@@ -53,8 +54,9 @@ def process_video(
     config: Config,
     logger,
     *,
-    session: Session,
+    session: Session | None = None,
 ) -> None:
+    """Process a single video: download, transcribe, generate outline, and cleanup."""
     logger.info("Processing video: %s (%s)", video.title, video.video_id)
 
     transcript_path = _transcript_path(config, video)
@@ -63,6 +65,13 @@ def process_video(
     if transcript_path.exists() and outline_path.exists():
         logger.info("Transcript and outline already exist for %s, skipping.", video.video_id)
         return
+
+    # Create a session for this worker if not provided
+    if session is None:
+        session = Session()
+        own_session = True
+    else:
+        own_session = False
 
     audio_path: Path | None = None
     try:
@@ -81,6 +90,8 @@ def process_video(
         if audio_path:
             remove_file(audio_path)
             logger.info("Deleted temporary audio %s", audio_path)
+        if own_session:
+            session.close()
 
     outline_text = generate_outline(transcript_path, config)
     save_outline(outline_text, outline_path)
@@ -98,7 +109,6 @@ def main() -> int:
 
     config.ensure_directories()
     logger = setup_logger(config.log_file)
-    session = Session()
 
     try:
         videos = _load_or_create_index(config, logger)
@@ -106,13 +116,34 @@ def main() -> int:
         logger.exception("Failed to load or create video index")
         return 1
 
+    if not videos:
+        logger.error("No videos found. Please check the channel URL.")
+        return 1
+
+    logger.info("Processing %d videos in parallel (batch size: %d)", len(videos), config.batch_size)
+    
     retry_queue: List[VideoMetadata] = []
-    for video in videos:
-        try:
-            process_video(video, config, logger, session=session)
-        except Exception:
-            retry_queue.append(video)
-            continue
+    completed = 0
+    
+    # Process videos in parallel using ThreadPoolExecutor
+    max_workers = min(config.batch_size, len(videos))
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        # Submit all video processing tasks
+        futures = {
+            executor.submit(process_video, video, config, logger): video
+            for video in videos
+        }
+        
+        # Process results as they complete
+        for future in as_completed(futures):
+            video = futures[future]
+            completed += 1
+            try:
+                future.result()
+                logger.info("✓ [%d/%d] Successfully processed %s", completed, len(videos), video.title)
+            except Exception:
+                logger.error("✗ [%d/%d] Failed to process %s", completed, len(videos), video.title)
+                retry_queue.append(video)
 
     if retry_queue:
         logger.warning("Retry queue populated with %d videos", len(retry_queue))
@@ -132,7 +163,6 @@ def main() -> int:
     else:
         logger.warning("No outlines found to merge.")
 
-    session.close()
     return 0
 
 

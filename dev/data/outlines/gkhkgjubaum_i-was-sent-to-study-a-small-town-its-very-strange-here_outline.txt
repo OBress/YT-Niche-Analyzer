@@ -1,0 +1,82 @@
+1. Title
+- I Was Sent to Study a Small Town. It's Very Strange Here.
+
+2. Main Characters
+- Frederick Armstrong — narrator; Regional Herald reporter, professional curiosity and moral center of the story.
+- Avery Day — innkeeper/proprietor of the Harksworth Inn; outwardly polite, complicit caretaker of the town’s routine.
+- Jasmine Ortiz — this year’s “Luckiest Citizen” recipient; young bank manager, mother; moves from fear to resigned acceptance.
+- Kyle Ortiz — Jasmine’s husband; Forestry Service employee, under the Luckbringer’s influence.
+- Sadie Ortiz — Jasmine and Kyle’s young daughter; innocent witness.
+- Glenn (Glenn Dominguez) — the town’s oldest resident and primary expositor of Harksworth’s history; bearer of guilt and memory.
+- Jimmy Bailey, Irene Willis, and other residents — a collectively evasive community (appear as a unified chorus protecting the secret).
+- The Luckbringer — unnamed supernatural entity (antagonist by implication): offers prosperity in exchange for an annual human tribute.
+
+3. Setting
+- Harksworth: an isolated mountain village that appears unnaturally pristine — manicured gardens, freshly painted houses, perfect main street.
+- Key locations in Harksworth: Harksworth Inn (room 7), Maple Street and Pine Street (residences), general store, village center / gazebo / platform, the forest path at the village edge.
+- Outside: mountain road/bus stop (arrival and departure), Regional Herald newsroom (final resolution).
+
+4. Narrative Structure
+- Exposition
+  - Arrival in Harksworth; first impressions of uncanny perfection and coordinated evasiveness. Assignment context: fluff piece about “Luckiest Citizen Award.”
+- Rising action
+  - Series of stilted interviews; innkeeper Avery’s odd knowledge; discovery that residents are prepped and evasive; meeting Jasmine (initial terror & plea to leave); meeting Glenn (elder) who reveals the true nature of the award and the town’s pact.
+- Climax
+  - The public ceremony at sunset; Jasmine, serenely compelled, walks into the forest and disappears — the ritualized fulfillment of the town’s annual tribute.
+- Falling action
+  - Night vigil and empty forest; narrator’s attempt to process and decide; Avery’s final warning and implicit threat; internal debate about exposing the truth.
+- Resolution
+  - Narrator chooses not to publish: locks notes away, returns to normal reporting; carries the secret as a personal burden and silence.
+
+5. Key Plot Points with timestamp ranges (approximate; total duration 7027 s ≈ 117:07)
+- 0:00–10:00 — Arrival and initial impressions
+  - Frederick arrives by bus; notes Harksworth’s unnatural perfection; senses surveillance and isolation (no cell signal).
+- 10:01–25:00 — First encounters and household oddities
+  - Enters Harksworth Inn; meets Avery (already knows him); receives room 7; explores the town; repeated evasions by Jimmy, Irene, others.
+- 25:01–40:00 — Meeting Jasmine; the first warning
+  - Finds Jasmine at her home; she recounts year of “good fortune” after being chosen; grows distraught and begs Frederick to leave town before the ceremony.
+- 40:01–55:00 — Broader probing; refusal of town to disclose history
+  - Frederick pursues previous winners; everyone claims “they moved away”; tension rises; Avery reluctantly names Glenn.
+- 55:01–75:00 — Glenn’s confession (exposition of the pact)
+  - Glenn tells the full history: the Luckbringer’s bargain, the tribute system, the 1950s attempt to break the pact and its disastrous consequences (17 accidental deaths), reinstatement and decades of compliant sacrifice (68 more), total ~85 deaths.
+- 75:01–90:00 — Attempts to save Jasmine; her mind changing
+  - Frederick returns to confront Jasmine; she’s calm, accepting, cognitively altered; his appeals fail; village prepares for the ceremony.
+- 90:01–102:00 — Ceremony (climax)
+  - Formal speeches, flowers and gifts, Jasmine’s farewell to Sadie; she walks to the forest path at sunset and vanishes.
+- 102:01–110:00 — Aftermath, vigil, and moral dilemma
+  - Frederick waits through the night at the forest edge, records nothing but silence; faces Avery’s warning the next morning.
+- 110:01–117:07 — Decision and departure (resolution)
+  - Frederick chooses personal safety over exposure: packs notes into a locked folder, boards the bus, returns to the Regional Herald, never publishes; resumes ordinary municipal reporting while carrying the secret.
+
+6. Emotional Arc
+- Curiosity / Professional optimism — arrives expecting a fluff piece.
+- Unease and suspicion — town’s perfection and evasiveness unsettle him.
+- Determination — resolve to dig deeper after coordinated obfuscation.
+- Alarm and empathy — Jasmine’s desperate plea and evidence of manipulation stir compassion.
+- Shock and horror — Glenn’s account of a ritualized bargain, decades of deaths.
+- Frustration and helplessness — failed attempts to save Jasmine and to find lawful recourse.
+- Grief and moral torment — witnessing the ceremony and disappearance; burden of bearing the truth.
+- Resignation / Complicity by silence — pragmatically choosing to stay silent for self- and communal-preservation; carries guilt and knowledge forward.
+
+7. Themes and Motifs
+- Themes
+  - Moral compromise for survival — community chooses prosperity over individual lives; collective complicity.
+  - The cost of truth — exposing the pact risks widespread harm (past reprisals demonstrate cost).
+  - Secrecy and tradition as social control — ritual and ceremony normalize atrocity; appearances protect the mechanism.
+  - Isolation and vulnerability — geographic and technological isolation amplifies the town’s ability to enforce the bargain.
+  - Limits of journalism/ethics — narrator wrestles with duty to truth versus responsibility for others’ safety.
+  - Human agency vs supernatural coercion — “choice” under influence; voluntary appearance masks exploitation.
+- Motifs
+  - Perfection / curated façade — the town’s manicured look as a mask for atrocity.
+  - Ritual & ceremony — award pageantry as moral laundering of the sacrifice.
+  - The forest / trees — threshold to the unknown, site of disappearance and hunger.
+  - Photographs and records — images as both cover story and memory; Glenn’s photos function as historical evidence.
+  - Time and cycles — annual repetition (the pact’s cycle, generations), the steady cadence of the ceremony.
+  - Food & domestic hospitality — tea, whiskey, innkeeping as settings where truth is revealed and hidden.
+  - Silence & coordinated speech — rehearsed answers, communal silence, and the locked manila folder as symbolic containment.
+
+Notes / Analytical observations
+- The story uses a slow-burn investigative frame to reveal moral horror: the surface-level quaintness of small-town life paradoxically conceals systemic atrocity.
+- Glenn functions as the moral conscience and necessary expositor; Avery and the villagers illustrate pragmatic complicity — both made sympathetic and culpable.
+- The Luckbringer is never described directly; its agency is inferred, which amplifies dread and allows the townspeople’s decisions to be the moral focus.
+- The narrator’s ultimate decision—choosing silence—is the thematic crux: the story interrogates whether some truths are worth the collateral price, and how institutions (and individuals) negotiate that calculus.

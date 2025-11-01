@@ -1,0 +1,84 @@
+# 1. Title
+- I Guide Tours Through the Canadian Wilderness. Yesterday I Saw Something TERRIFYING.
+
+# 2. Main Characters
+- Dean (narrator) — experienced wilderness guide, protagonist.
+- Eddie Cruz — middle-aged client, cautious, father.
+- Hazel Cruz — Eddie’s wife; later sprains ankle.
+- Nicole Cruz — their 17-year-old daughter, enthusiastic photographer.
+- Robert Herrera — 68, former military/teacher, steady and observant.
+- Deborah Cunningham — young photographer, excited for shots.
+- Derek Miles — well-equipped corporate client, practical but shaken.
+- Station Chief Joseph Navarro — ranger station chief.
+- Ranger Summer Buck — search and rescue coordinator.
+- The Figure / “the thing” — tall, in high-visibility jacket; exhibits impossible movements; antagonist/unknown entity.
+- The Canadian wilderness (setting) — acts as an active environment and atmospheric presence.
+
+# 3. Setting
+- Remote Canadian wilderness: trailhead parking area, mixed forest trail, steep side trail to Lookout Point (overlook), meadow below the cliff, dense forest trails back toward parking, and the ranger station at the trailhead/town.
+- Time: Morning hike that escalates into an evacuation and subsequent multi-day search; later return visit by Dean on a day off (weeks later).
+
+# 4. Narrative Structure
+- Exposition
+  - Dean assembles six clients at the trailhead, runs through safety checklist and group dynamics; route planned (15 km, 400 m gain).
+  - Setting the tone: familiar route, routine guiding responsibilities.
+- Rising Action
+  - Detour to Lookout Point; Dean spots a lone figure in a bright high-visibility jacket in the meadow.
+  - Figure’s movements escalate from odd swaying to contortions; Dean's alarm grows.
+  - Figure turns to face them; Dean decides to evacuate group despite lack of obvious threat.
+  - Inhuman thumping, a piercing scream, and the forest’s unnatural silence heighten danger and panic.
+- Climax
+  - During the hurried retreat, Hazel twists/sprains her ankle; the group separates and runs.
+  - The figure appears suddenly close (within ~20 m), staring with mechanical head movements and unnatural proportions — immediate peril and terror peak.
+  - Dean protects Hazel; the figure abruptly bolts away.
+- Falling Action
+  - Group regroups, returns to parking; Dean files report with the ranger station.
+  - Large-scale search (ground teams, dogs, helicopter/thermal) yields no trace.
+  - Official search called off; Dean remains unsettled.
+- Resolution (ambiguous / open)
+  - Weeks later Dean returns alone and finds two jackets deliberately hung in the meadow: the orange high-visibility jacket (matching what he saw) and his own Ranger jacket (which should have been at home).
+  - The arrangement implies purposeful communication/observation; no clear explanation; threat unresolved.
+
+# 5. Key Plot Points with timestamp ranges (approximate, total duration 4,310s / 71m50s)
+- 00:00–06:00 — Trailhead, group assembly, gear distribution, safety briefing; group dynamics established.
+- 06:00–15:00 — Begin hike; decision to detour to Lookout Point; arrival at the overlook and binocular scanning.
+- 15:00–22:00 — Dean spots the figure in the meadow; initial odd motions; increasing unease.
+- 22:00–28:00 — Figure’s movements escalate (contortions, head shaking), it stands and turns toward them; Dean orders immediate evacuation.
+- 28:00–34:00 — Distant thumping, an inhuman scream; group flees down trail; Hazel injures her ankle; the figure appears very close and then flees.
+- 34:00–43:00 — Group reaches parking area; Dean reports incident to Station Chief Joseph Navarro; search & rescue mobilized.
+- 43:00–55:00 — Organized search operations (12-person team, grid sweep, helicopter/thermal imaging, tracking dogs) over multiple days; no physical evidence found.
+- 55:00–61:00 — Official search called off; Dean still haunted and returns alone on a day off to re-investigate.
+- 61:00–71:50 — Dean finds the high-visibility jacket hung in the meadow and then his own ranger jacket hung in another tree; realization that someone/thing has been observing and staging displays; unresolved ending.
+
+# 6. Emotional Arc
+- Calm competence / routine (confident guide preparing a balanced group).
+- Curiosity and mild excitement (Lookout Point, photo op).
+- Unease and growing alarm (first sighting, unnatural movements).
+- Protective urgency and panic (evacuation, scream, group flight).
+- Helplessness and dread (Hazel injured, the figure close).
+- Frustration and disbelief (search yields no evidence).
+- Obsession, return, and creeping horror (finding jackets, realization of being studied).
+- Lingering unresolved fear (no closure; threat remains unknown).
+
+# 7. Themes and Motifs
+- The Unknown in Familiar Places
+  - The wilderness is familiar to Dean but becomes alien; the known becomes uncanny.
+- Observation and Surveillance
+  - Looking (binoculars, cameras) vs. being watched; the figure watches and stages displays for the observer.
+- Appearance vs. Reality
+  - The figure appears human at first glance but behaves and moves beyond human anatomy; jackets as false signals or lures.
+- Responsibility and Protection
+  - Dean’s role as guide: protecting clients at all costs, making quick decisions under uncertainty.
+- Evidence vs. Disbelief
+  - Physical traces (or lack thereof) challenge belief—search teams find nothing despite eyewitness certainty.
+- Ritual / Staging / Communication
+  - The deliberate hanging of jackets suggests intentional messaging or ritualized “calling cards.”
+- Isolation and Vulnerability
+  - Wilderness isolation amplifies fear; being cut off (no radio signal) increases stakes.
+- The Limits of Rational Explanation
+  - Attempts at conventional explanations (medical episode, stilts, missing person) fail; the story ends unresolved.
+
+Additional notes (narrative-critical)
+- The antagonist is left unexplained, elevating tension by replacing a concrete monster with an ambiguous, intelligent unknown.
+- The staged jackets function as both physical proof and psychological taunt—evidence that the phenomenon can operate at will and knows the narrator personally.
+- The story emphasizes sensory detail (sound, silence, movement) to build dread and to contrast ordinary wilderness rhythms with the abnormal.

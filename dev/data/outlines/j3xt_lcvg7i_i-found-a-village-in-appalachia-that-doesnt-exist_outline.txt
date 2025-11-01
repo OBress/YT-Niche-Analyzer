@@ -1,0 +1,102 @@
+1. Title
+- I Found a Village in Appalachia That Doesn't Exist.
+
+2. Main Characters
+- Jasper Miles — narrator; documentary filmmaker, protagonist (first-person).
+- Jonathan — cameraman/sound tech; longtime collaborator; pragmatic and steady.
+- Leon — local guide/driver; experienced mountain guide who warns them.
+- The Girl on the Swing — eight-year-old figure who becomes the first clear aperture into the uncanny (camera reveals her “true” face).
+- The Villagers — inhabitants performing precise, empty pantomimes (spinning, chopping, playing).
+- The Suited Man — cultured, authoritative stranger in an expensive suit who explains/controls the boundary; later revealed through the viewfinder as monstrous.
+
+3. Setting
+- Remote Appalachian valley accessed via deteriorating logging road/Cascade Ridge; no modern infrastructure (no power lines, satellites, or paved roads).
+- Present-day, isolated mountain microclimate: old-growth forest, wooden buildings clustered in a valley floor that appears “frozen in time.”
+- Secondary settings: the truck (vehicle boundary between worlds) and the hotel room (site of aftermath and failed evidence recovery).
+
+4. Narrative Structure
+- Exposition
+  - Team of documentary makers (Jasper, Jonathan) ride with Leon into remote mountains; Leon warns that this place is “wrong.” GPS loses signal, records/census sparse — they crest a ridge and see an apparently off-grid village (establishes stakes and tools: camera/viewfinder).
+- Rising Action
+  - They enter the village. Villagers act out precise, empty tasks (invisible thread, phantom chopping, children playing with nothing). Jasper films; initial oddity escalates when, through the camera viewfinder, the girl’s face fractures and her eyes go black — a divergence between naked-eye perception and the camera’s “truth.”
+  - Jasper becomes increasingly unsettled but continues filming; he decides to review footage later.
+- Climax
+  - As they attempt to leave, they encounter the suited man who claims the village is a “parallel copy” and warns about consequences. Jasper films him; the viewfinder reveals a horrific, nonhuman transformation (multiplying eyes, cavernous mouth of needle teeth). This is the narrative’s visceral apex.
+- Falling Action
+  - Panic flight: they escape to the truck; suited man watches but does not pursue overtly.
+  - Jasper later reviews footage in the truck and hotel — files appear as properly sized clips but display pure digital black; his companions (Jonathan, Leon) have no memory of the village encounter and insist they never filmed anything. Jasper is left with vivid memories but no corroborating evidence.
+- Resolution
+  - Three months later: Jasper has not returned. The camera is locked away, career interrupted, and he is isolated by knowledge that cannot be proven. The story closes on unresolved dread and permanent epistemic fracture rather than neat closure.
+
+5. Key Plot Points with timestamp ranges (mm:ss)
+(Transcript duration: 92:58 — ranges are approximate and map major beats)
+
+- 00:00–12:00 — Opening drive and setup
+  - Team dynamics established (Jasper, Jonathan, Leon). Leon’s repeated warning introduced. The road deteriorates; GPS dies; research/context about historical invisibility.
+
+- 12:00–26:00 — Cresting the ridge and first view of the village; entering
+  - First visual of a “frozen” village with no modern infrastructure; arrival, silence, sensory details; Jasper’s reluctance to film immediately.
+
+- 26:00–38:00 — First uncanny observations; the phantom pantomimes
+  - Villagers performing empty tasks (spinning, chopping, invisible laundry); Jasper can’t elicit responses; growing professional frustration.
+
+- 38:00–49:00 — The girl on the swing; first viewfinder revelation; dissonance between LCD/naked eye and viewfinder
+  - Girl’s perfect pendulum motion; Jasper films her — through the viewfinder he sees spreading black cracks, an impossible stretching smile and void eyes. He withdraws in shock; through naked eye she appears normal. Jasper decides to keep filming but uses LCD.
+
+- 49:00–56:00 — Afternoon documentation, decision to review footage later
+  - Jasper films more pantomimes (LCD vs viewfinder tension); mounting dread; decision to review footage at camp.
+
+- 56:00–64:00 — Leaving the village; encounter with the suited man (turning point towards confrontation)
+  - Suited man appears blocking the road, claims the place is a “parallel copy” and warns about consequences; he knows about the camera/viewfinder.
+
+- 64:00–69:00 — Climax through viewfinder: the suited man’s metamorphosis
+  - Jasper instinctively raises the camera and through the viewfinder sees the suited man’s flesh bubble and reshape: multiple eyes, rows of needle teeth; terrifying transformation confirmed by camera; Jasper panics, orders to leave.
+
+- 69:00–76:00 — Flight, retreat, and lingering observation
+  - Fleeing back to truck; villagers’ behavior intensifies; the girl’s swing speeds up and watches Jasper; they drive away; suited man remains fixed; the weight of the camera grows metaphorically.
+
+- 76:00–88:00 — Hotel playback discovery; the emptiness of recorded evidence
+  - Jasper attempts playback: files are present with correct timestamps and sizes but show pure black; he copies to laptop — copies become empty. Jonathan and Leon later claim no memory of the village; they remember only a short ridge visit. Jasper confronts erasure of evidence and witnesses.
+
+- 88:00–92:58 — Aftermath and unresolved isolation (three months later)
+  - Jasper hasn’t returned; camera in closet; career and life disrupted; dreams of the village; persistent, unprovable memory; story closes on isolation and the narrator’s caution.
+
+6. Emotional Arc
+- Curiosity/Professional Excitement (opening) — excitement about a new documentary subject, anticipation.
+- Wariness/Unease (arrival) — Leon’s warnings, the valley’s silence and lack of infrastructure create discomfort.
+- Frustration (early village exploration) — inability to interview or connect with villagers; professional irritation.
+- Dread/Horror (viewfinder revelations) — visceral fear when the camera shows impossible transformations (girl, then suited man).
+- Panic/Urgency (suited man confrontation and escape) — flight response; immediate physical danger and existential threat.
+- Confusion/Disbelief (post-escape) — missing footage and erased witnesses lead to cognitive dissonance.
+- Isolation/Despair (aftermath) — long-term psychological burden of unprovable memories; career and personal life damaged.
+- Resigned Vigilance (ending) — narrator may never fully trust perception again; knowledge remains unresolved.
+
+7. Themes and Motifs
+- Reality vs. Perception / The Camera as Oracle
+  - Repeated contrast between what naked eyes perceive and what the camera viewfinder reveals. The camera functions as an instrument that can pierce a veil of ordinary reality, but that sight carries consequences.
+
+- Evidence, Memory, and Erasure
+  - Digital files exist but are rendered black; human witnesses lose memory. The story interrogates what happens when subjective experience lacks objective corroboration.
+
+- Parallel Worlds and Failed Copies
+  - The suited man’s explanation frames the village as a “copy that failed to develop properly” — a liminal space where normal rules fail, producing creatures or behaviors that only certain media (camera viewfinder) can reveal.
+
+- Isolation and the Burden of Knowledge
+  - The narrator ends up alone with a traumatic, unverifiable truth. Isolation is both geographic (remote valley) and epistemic (no one believes or remembers).
+
+- Voyeurism and Ethical Limits of Documentation
+  - The narrator's profession — documentary filmmaking — raises questions about the ethics and hazards of observation: seeing vs. interfering, the role of a witness, and whether some truths should be revealed.
+
+- Repetition, Circular Motifs, and Mechanical Motion
+  - Repeated mechanical/pantomime actions (spinning, swinging, chopping) emphasize ritualized incompletion and the uncanny: motions without objects, precision without purpose.
+
+- Eyes and Mouth as Portals
+  - Visual motifs: multiplying eyes, empty black eye sockets, impossible mouths/teeth — these bodily distortions serve as metaphors for perception (seeing/being seen) and consumption (devouring truth or witness).
+
+- Nature and Antiquity vs. Modern Intrusion
+  - The valley’s apparent antiquity (no lines, hand-built structures) and the intrusion of a modern camera and a suited man create an uneasy collision of temporal registers.
+
+Notes for analysis/use
+- The story deliberately blurs documentary realism (tools, team, procedure) with horror/fantastical elements to question the reliability of recorded truth.
+- The camera is both instrument of revelation and vector of consequence; the narrator’s professional identity amplifies the moral and epistemic stakes.
+- The unresolved ending emphasizes psychological horror (isolation, paranoia) rather than external resolution; it keeps the “village” as an open mystery.
