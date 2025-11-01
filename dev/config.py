@@ -16,8 +16,8 @@ class Config:
     channel_url: str
     eleven_api_key: str
     eleven_model_id: str
-    openai_api_key: str
-    openai_model: str
+    openrouter_api_key: str
+    openrouter_model: str
     num_videos: int
     batch_size: int
     temp_audio_dir: Path
@@ -48,11 +48,13 @@ class Config:
 
         eleven_model_id = os.getenv("ELEVEN_MODEL_ID", "eleven_monolingual_v1")
 
-        openai_api_key = os.getenv("OPENAI_API_KEY", "")
-        if not openai_api_key:
-            raise ValueError("OPENAI_API_KEY environment variable is required")
+        openrouter_api_key = os.getenv("OPENROUTER_API_KEY", "")
+        if not openrouter_api_key:
+            raise ValueError("OPENROUTER_API_KEY environment variable is required")
 
-        openai_model = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
+        openrouter_model = os.getenv(
+            "OPENROUTER_MODEL", "openrouter/meta-llama/llama-3.1-8b-instruct"
+        )
 
         num_videos = int(os.getenv("NUM_VIDEOS", "50"))
         batch_size = int(os.getenv("BATCH_SIZE", "5"))
@@ -68,8 +70,8 @@ class Config:
             channel_url=channel_url,
             eleven_api_key=eleven_api_key,
             eleven_model_id=eleven_model_id,
-            openai_api_key=openai_api_key,
-            openai_model=openai_model,
+            openrouter_api_key=openrouter_api_key,
+            openrouter_model=openrouter_model,
             num_videos=num_videos,
             batch_size=batch_size,
             temp_audio_dir=temp_audio_dir,

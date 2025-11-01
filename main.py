@@ -7,17 +7,17 @@ from typing import List
 
 from requests import Session
 
-from .config import Config
-from .downloader import (
+from dev.config import Config
+from dev.downloader import (
     VideoMetadata,
     download_audio,
     fetch_channel_videos,
     load_video_index,
     save_video_index,
 )
-from .summarizer import generate_outline, hierarchical_merge_outlines, save_outline
-from .transcriber import save_transcript, transcribe_audio
-from .utils import remove_file, setup_logger, slugify
+from dev.summarizer import generate_outline, hierarchical_merge_outlines, save_outline
+from dev.transcriber import save_transcript, transcribe_audio
+from dev.utils import remove_file, setup_logger, slugify
 
 
 class PipelineError(Exception):

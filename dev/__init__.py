@@ -6,5 +6,4 @@ __all__ = [
     "transcriber",
     "summarizer",
     "utils",
-    "main",
 ]
