@@ -16,7 +16,7 @@ from dev.downloader import (
     load_video_index,
     save_video_index,
 )
-from dev.summarizer import generate_outline, hierarchical_merge_outlines, save_outline
+from dev.summarizer import generate_creative_framework, save_outline
 from dev.transcriber import save_transcript, transcribe_audio
 from dev.utils import remove_file, setup_logger, slugify
 
@@ -45,10 +45,6 @@ def _transcript_path(config: Config, video: VideoMetadata) -> Path:
     return config.transcript_dir / f"{video.slug}.json"
 
 
-def _outline_path(config: Config, video: VideoMetadata) -> Path:
-    return config.outline_dir / f"{video.slug}_outline.txt"
-
-
 def process_video(
     video: VideoMetadata,
     config: Config,
@@ -60,10 +56,8 @@ def process_video(
     logger.info("Processing video: %s (%s)", video.title, video.video_id)
 
     transcript_path = _transcript_path(config, video)
-    outline_path = _outline_path(config, video)
-
-    if transcript_path.exists() and outline_path.exists():
-        logger.info("Transcript and outline already exist for %s, skipping.", video.video_id)
+    if transcript_path.exists():
+        logger.info("Transcript already exists for %s, skipping.", video.video_id)
         return
 
     # Create a session for this worker if not provided
@@ -92,13 +86,6 @@ def process_video(
             logger.info("Deleted temporary audio %s", audio_path)
         if own_session:
             session.close()
-
-    outline_text = generate_outline(transcript_path, config)
-    save_outline(outline_text, outline_path)
-    if outline_path.stat().st_size == 0:
-        raise PipelineError("Outline file is empty")
-    logger.info("Saved outline to %s", outline_path)
-
 
 def main() -> int:
     try:
@@ -154,14 +141,19 @@ def main() -> int:
             retry_queue,
         )
 
-    outline_paths = [path for path in config.outline_dir.glob("*_outline.txt")]
-    if outline_paths:
-        logger.info("Starting hierarchical merge of %d outlines", len(outline_paths))
-        final_outline = hierarchical_merge_outlines(outline_paths, config, config.merged_dir)
-        if final_outline:
-            logger.info("Final merged outline written to %s", final_outline)
+    transcript_paths = sorted(config.transcript_dir.glob("*.json"))
+    if transcript_paths:
+        logger.info(
+            "Generating creative framework from %d transcripts", len(transcript_paths)
+        )
+        creative_framework = generate_creative_framework(transcript_paths, config)
+        framework_path = config.merged_dir / "creative_framework.txt"
+        save_outline(creative_framework, framework_path)
+        if framework_path.stat().st_size == 0:
+            raise PipelineError("Creative framework file is empty")
+        logger.info("Saved creative framework to %s", framework_path)
     else:
-        logger.warning("No outlines found to merge.")
+        logger.warning("No transcripts found to analyze for a creative framework.")
 
     return 0
 
