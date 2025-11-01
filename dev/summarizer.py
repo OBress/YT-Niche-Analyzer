@@ -4,33 +4,71 @@ from __future__ import annotations
 from pathlib import Path
 from typing import Iterable, List, Optional
 
-from openai import OpenAI
+import requests
 
 from .config import Config
 from .transcriber import Transcript, load_transcript
 from .utils import chunk_iterable
 
-
-def _client(config: Config) -> OpenAI:
-    return OpenAI(api_key=config.openai_api_key)
+OPENROUTER_CHAT_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 
-def _collect_text_from_response(response) -> str:
-    pieces: List[str] = []
-    for output in response.output:
-        if output.type != "message":
-            continue
-        for content in output.message.content:
-            if content.type == "text":
-                pieces.append(content.text)
-    return "".join(pieces).strip()
+class OpenRouterClient:
+    """Minimal client for interacting with the OpenRouter chat completions API."""
+
+    def __init__(self, api_key: str, *, timeout: int = 600) -> None:
+        self.api_key = api_key
+        self.timeout = timeout
+
+    def create_chat_completion(self, *, model: str, messages: List[dict]) -> dict:
+        headers = {
+            "Authorization": f"Bearer {self.api_key}",
+            "Content-Type": "application/json",
+        }
+        payload = {
+            "model": model,
+            "messages": messages,
+        }
+        response = requests.post(
+            OPENROUTER_CHAT_URL,
+            headers=headers,
+            json=payload,
+            timeout=self.timeout,
+        )
+        response.raise_for_status()
+        return response.json()
+
+
+def _client(config: Config) -> OpenRouterClient:
+    return OpenRouterClient(
+        api_key=config.openrouter_api_key,
+        timeout=config.request_timeout,
+    )
+
+
+def _collect_text_from_response(payload: dict) -> str:
+    choices = payload.get("choices", [])
+    for choice in choices:
+        message = choice.get("message", {})
+        content = message.get("content")
+        if isinstance(content, str):
+            return content.strip()
+        if isinstance(content, list):
+            parts: List[str] = []
+            for item in content:
+                text = item.get("text") if isinstance(item, dict) else None
+                if text:
+                    parts.append(text)
+            if parts:
+                return "".join(parts).strip()
+    return ""
 
 
 def generate_outline(
     transcript_path: Path,
     config: Config,
     *,
-    client: Optional[OpenAI] = None,
+    client: Optional[OpenRouterClient] = None,
 ) -> str:
     """Create a structured outline for a transcript."""
     transcript: Transcript = load_transcript(transcript_path)
@@ -56,26 +94,16 @@ def generate_outline(
         "Transcript:\n" + transcript.full_text
     )
 
-    response = llm.responses.create(
-        model=config.openai_model,
-        input=[
+    response = llm.create_chat_completion(
+        model=config.openrouter_model,
+        messages=[
             {
                 "role": "system",
-                "content": [
-                    {
-                        "type": "text",
-                        "text": prompt,
-                    }
-                ],
+                "content": prompt,
             },
             {
                 "role": "user",
-                "content": [
-                    {
-                        "type": "text",
-                        "text": user_content,
-                    }
-                ],
+                "content": user_content,
             },
         ],
     )
@@ -93,7 +121,7 @@ def hierarchical_merge_outlines(
     config: Config,
     merged_dir: Path,
     *,
-    client: Optional[OpenAI] = None,
+    client: Optional[OpenRouterClient] = None,
 ) -> Optional[Path]:
     """Merge outlines hierarchically in a merge-sort fashion."""
     outlines = [Path(path) for path in outline_paths]
@@ -122,26 +150,16 @@ def hierarchical_merge_outlines(
                 "5. Opportunities for Future Storytelling"
             )
 
-            response = llm.responses.create(
-                model=config.openai_model,
-                input=[
+            response = llm.create_chat_completion(
+                model=config.openrouter_model,
+                messages=[
                     {
                         "role": "system",
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": merge_prompt,
-                            }
-                        ],
+                        "content": merge_prompt,
                     },
                     {
                         "role": "user",
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": combined_outline,
-                            }
-                        ],
+                        "content": combined_outline,
                     },
                 ],
             )
